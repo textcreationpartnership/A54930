@@ -1,0 +1,1721 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation of the great sufferings and strange adventures of Henry Pitman, chyrurgion to the late Duke of Monmouth, containing an account ...</title>
+            <author>Pitman, Henry.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 106 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54930</idno>
+            <idno type="STC">Wing P2298</idno>
+            <idno type="STC">ESTC R4673</idno>
+            <idno type="EEBO-CITATION">13471004</idno>
+            <idno type="OCLC">ocm 13471004</idno>
+            <idno type="VID">99692</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54930)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99692)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 472:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation of the great sufferings and strange adventures of Henry Pitman, chyrurgion to the late Duke of Monmouth, containing an account ...</title>
+                  <author>Pitman, Henry.</author>
+               </titleStmt>
+               <extent>38 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Sowle, and are to be sold by John Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"An act for the governing and retaining within this island all such rebels convict as by His most sacred Majesties order or permit, have been or shall be transported from his European dominion to this place," dated: the fourth day of January, 1685, p. 6-11.</note>
+                  <note>"1. Of the occasion of his being engaged in the Dukes service, 2. Of his tryal, condemnation, and transportation to Barbadoes, with the most severe and unchristian acts made against him and his fellow-sufferers, by the governour and general assembly of that island, 3. How he made his escape in a small open boat with some of his fellow captives, namely Jo. Whicher, Peter Bagwell, William Woodcock, Jo. Cooke, Jeremiah Atkins, &amp;c., and how miraculously they were preserved on the sea, 4. How they went ashore on a uninhabitable island, where they met with some privateers that burnt their boat, and left them on that desolate place to shift for themselves, 5. After what manner they lived there for about three moneths, until the said Henry Pitman was taken aboard a privateer and at length arrived safe in England, 6. How his companions were received aboard another privateer that was afterwards taken by the Spaniards and they all made slaves, and how after six months captivity they were delivered and returned to England also."</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pitman, Henry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99692:1"/>
+            <pb facs="tcp:99692:1" rendition="simple:additions"/>
+            <p>A RELATION OF THE Great Sufferings AND <hi>Strange Adventures</hi>
+Of <hi>HENRY PITMAN,</hi> Chyrurgion to the late Duke of <hi>Monmouth,</hi>
+contain<g ref="char:EOLhyphen"/>ing an Account; 1. Of the occaſion of his being engaged in the Duke's
+Service. 2. Of his Tryal, Condemnation, and Tranſportation to
+<hi>Barbadoes,</hi> with the moſt ſevere and Unchriſtian Acts made
+againſt him and his Fellow-ſufferers, by the Governour and General
+Aſſembly of that Iſland. 3. How he made his eſcape in a ſmall open
+Boat with ſome of his fellow Captives, namely, <hi>Jo. Whicker, Peter
+Bagwell, William Woodcock, Jo. Cooke, Jeremiah Atkins,</hi> &amp;c. And how
+miraculouſly they were preſerved on the Sea. 4. How they went aſhore on a
+uninhabitable Iſland, where they met with ſome <hi>Privateers</hi> that
+burnt their Boat, and left them on that deſolate place to ſhift for
+themſelves. 5. After what manner they lived there for about three Moneths,
+until the ſaid <hi>Henry Pitman</hi> was taken aboard a <hi>Privateer,</hi>
+and at length arrived ſafe in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi> 6. How his Companions were
+received aboard another <hi>Privateer</hi> that was after<g ref="char:EOLhyphen"/>wards taken by the
+<hi>Spainards,</hi> and they all made Slaves; And how aftar ſix Moneths
+Captivity they were delivered, and returned to <hi>England</hi> alſo.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Licenſed,</hi> 
+                        </p>
+                        <closer>
+                           <dateline>
+                              <date>June 13th,
+1689.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Andrew Sowle;</hi> And are to be
+Sold by <hi>John Taylor,</hi> at the Sign of the <hi>Ship</hi> in
+<hi>Paul</hi>'s <hi>Church-Yard,</hi> 1689.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:99692:2"/>
+            <pb n="3" facs="tcp:99692:2"/>
+            <head>A RELATION, <hi>&amp;c.</hi>
+            </head>
+            <p>AS a neceſſary Introduction to the following Relation, it will
+be convenient that I give account of the occaſion of my being engaged with
+the reſt that went in to the Duke of <hi>Monmouth,</hi> and how far I was
+concerned in that Action.</p>
+            <p>Being at that time but newly returned from a Voyage to
+<hi>Italy,</hi> I went to ſee my Relations at <hi>Sandford</hi> in
+<hi>Sommerſet-ſhire,</hi> where I had not been long before the Duke Landed
+at <hi>Lime,</hi> and making forwards, was advanced as far as
+<hi>Ilmiſter;</hi> upon which I was induced partly out of my own Curioſity,
+and partly by the Importunity of ſome of my Acquaintance, to go and ſee
+whether his ſtrength and number was an<g ref="char:EOLhyphen"/>ſwerable to what the common Rumor
+had ſpread abroad; and to that pur<g ref="char:EOLhyphen"/>poſed rode accompanied with my Brother,
+and ſome other Friends to <hi>Taunton,</hi> whither the Duke by this time was
+marching with ſuch Forces as he had got together.</p>
+            <p>After ſome ſtay there, having fully ſatisfied my Curioſity
+by a full view both of his Perſon and his Army, I reſolved to have returned
+home, and in order thereunto I took the direct Road back again with a Friend,
+who had the ſame Intention with my ſelf, but underſtanding upon the Road
+that if we went forward, we ſhould be certainly intercepted by the <hi>Lord
+of Oxford</hi>'s <hi>Troop,</hi> then in our way, we found our ſelves of
+ne<g ref="char:EOLhyphen"/>ceſſity obliged to retire back again to the <hi>Duke's</hi> Forces, till
+we could meet with a more ſafe and convenient opportunity: but after ſome
+time loſing my Horſe, and no opportunity preſenting it ſelf, I was
+prevailed with by the importunate deſires of my Friends and Acquaintance then
+in the Army, to ſtay and take care of the ſick and wounded men, to which I
+was the rather induced, in regard I thought my ſelf liable to the ſame
+puniſhment, ſhould the Duke be defeated, as thoſe who ſtill remain<g ref="char:EOLhyphen"/>ed
+in the Army; but more eſpecially for that I ſaw many ſick and woun<g ref="char:EOLhyphen"/>ded
+men miſerably lamenting the want of <hi>Chyrurgions</hi> to dreſs their
+Wounds, ſo that Pity and Compaſſion on my fellow Creatures more
+eſpecially, being my Brethren in <hi>Chriſtianity,</hi> obliged me to
+ſtay and perform the Duty of my Calling among them, &amp; to aſſiſt my
+Brother Chi<g ref="char:EOLhyphen"/>rurgions
+<pb n="4" facs="tcp:99692:3"/>towards the relief of thoſe that otherwiſe
+muſt have languiſht in miſery; tho' indeed there were many did,
+notwithſtanding our utmoſt care and diligence, whoſe Lives perhaps might
+have been preſerved to this day, had we had a Garriſon, wherein to have
+given them Reſt, and not have been conſtrained through the Cruelty and
+Inhumanity of the King's Soldiers, to expoſe their wounded and fractured
+Limbs to the vio<g ref="char:EOLhyphen"/>lent agitation and ſhoging of the Carts in our daily
+Marches. But as I was never in Arms my ſelf, ſo neither was I wanting in my
+care to dreſs the Wounds of many of the King's Soldiers, who were Priſoners
+in the Duke's Army, uſing the utmoſt of my care and skill for both: And
+thus I continued in full Employment, dreſſing the wounded in the Night
+time, and marching by Day till the fatal rout and overthrow of the whole
+Army.</p>
+            <p>In my flight homewards I was taken Priſoner, and committed to
+<hi>Ilche<g ref="char:EOLhyphen"/>ſter</hi> Goal by Col. <hi>Hellier,</hi> in whoſe Porch I had my
+Pockets rifled, and my Coat taken off my Back by my Guard; and in that manner
+was hurried away to Priſon, where I remained, with many more under the ſame
+Cir<g ref="char:EOLhyphen"/>cumſtances, until the Aſſizes at <hi>Wells;</hi> tho' perhaps there
+could not any thing have been proved againſt moſt of us, to have done us
+much harm, had they not extorted Confeſſions from us by ſending certain
+Perſons to the Priſons where we were, who called us forth one after
+ano<g ref="char:EOLhyphen"/>ther, and told us, <hi>That the King was very Gracious and Merciful, and
+would cauſe none to be executed but ſuch as had been Officers, or
+otherwiſe Capital Offen<g ref="char:EOLhyphen"/>ders; and therefore if we would render our ſelves
+fit Objects of the King's Grace &amp; Favour, our only way was to give them an
+Account where we went into the Duke's Army, and in what Capacity we ſerved
+him,</hi> &amp;c. <hi>otherwiſe we muſt expect no mercy or favour from the
+King, who would certainly puniſh all ſuch wilful and ob<g ref="char:EOLhyphen"/>ſtinate
+Offenders.</hi> By which means they drew us into the Acknowledgment of our
+Guilt, and our Examinations and Confeſſions were written and ſent to the
+King, before the Lord Chief Juſtice <hi>Jefferies</hi> came to try us: ſo
+that he knew before-hand our perticular Crimes, and likewiſe received Orders
+from the King (as 'tis ſuppoſed) who, and what Number to ex<g ref="char:EOLhyphen"/>ecute; but
+ſeeing our former Confeſſions were ſufficient only to find the Bill
+againſt us by the <hi>Grand Jury,</hi> and not to prove us Guilty (the
+<hi>Petty Jury</hi> being obliged to give their Verdict according to the
+Evidence in Court) the Lord Chief Juſtice fearing leſt we ſhould deny
+what we for<g ref="char:EOLhyphen"/>merly confeſt, and by that means put them to the trouble of
+proving it againſt us, cauſed about twenty eight Perſons at the
+Aſſizes at <hi>Dorcheſter,</hi>
+               <pb n="5" facs="tcp:99692:3"/>to be choſen from among the reſt, againſt
+whom he knew he could pro<g ref="char:EOLhyphen"/>cure Evidence, and brought them firſt to their
+Tryal, who pleaded <hi>Not Guilty;</hi> but Evidence being produced they were
+immediately condemned, and a Warrant ſigned for their Excution the ſame
+After-noon. The ſud<g ref="char:EOLhyphen"/>dain Execution of theſe men ſo affrightned the
+reſt, that we all, except three or four, pleaded <hi>Guilty,</hi> in hopes to
+ſave our Lives, but not with<g ref="char:EOLhyphen"/>out large Promiſes of the Kings Grace and
+Favour; for the Lord Chief Juſtice told us, That if we would acknowledge our
+Crimes by pleading <hi>Guilty</hi> to our Indictment, the King who was almoſt
+all Mercy, would be as ready to forgive us, as we were to rebel againſt him;
+yea, as ready to pardon us as we would be to ask it of him: and now was that
+common ſaying verified, <hi>Confeſs and be hanged;</hi> for
+notwithſtanding his large Pro<g ref="char:EOLhyphen"/>miſes of Grace and Favour, we were all
+condemned to be <hi>drawn, hanged,</hi> &amp; <hi>quartered,</hi> &amp; by his
+order there was 230 executed, beſides a <hi>great Number</hi> hanged
+immediately aſter the<g ref="char:cmbAbbrStroke">̄</g> Fight; the reſt of us was ordered to be
+Tranſported to the <hi>Caribe Iſlands,</hi> and in order thereunto my
+Brother and I, with near 100 more, was given to <hi>Jeremiah Nepho,</hi> and by
+him ſold to <hi>George Penne</hi> a needy <hi>Papiſt,</hi> that wanted
+Money to pay for our Tranſ<g ref="char:EOLhyphen"/>portation, and therefore was very importunate with
+my Relations to purchaſe mine and my Brothers freedom, which my Relations at
+firſt were unwilling to do, having no aſſurance of performing Articles at
+ſuch a diſtance, and therefore thought it beſt to defer it until we came
+to <hi>Barbadoes,</hi> or otherwiſe to agree to pay him as ſoon as they
+ſhould receive an account of our being ſet free: But this not ſatisfying
+him, having pre<g ref="char:EOLhyphen"/>ſent occaſion of Money, he threatned that if they would not
+pay him now, he would give orders to his Brother-in-law in <hi>Barbadoes</hi>
+that our freedom ſhould not be ſold us after we came there, but that he
+ſhould treat us with more rigour and ſeverity then others; with theſe
+Threats on the one hand, and Promiſes of particular Favour on the other, he
+at length prevailed with our Relations, to give him threeſcore Pounds, upon
+con<g ref="char:EOLhyphen"/>dition that we ſhould be free when we came to <hi>Barbadoes,</hi> only
+owning ſome Perſon whom we ſhould think fit to nominate as a titular
+Maſter, and in caſe that theſe, with other Conditions, was not performed,
+the ſaid <hi>George Penne</hi> was bound with his Brother <hi>John Penne</hi>
+in a Bond of 120 <abbr>
+                  <hi>l.</hi>
+               </abbr> to pay the threeſcore Pounds back
+again: And thus we may ſee the buy<g ref="char:EOLhyphen"/>ing and ſelling of Free-men into
+ſlavery, was beginning again to be re<g ref="char:EOLhyphen"/>newed among <hi>Chriſtians,</hi> as
+if that <hi>Heatheniſh</hi> Cuſtom had been a neceſſary dependance on
+arbitrary Power.</p>
+            <pb n="6" facs="tcp:99692:4"/>
+            <p>And in order to our Tranſportation, we were removed to
+<hi>Weymouth,</hi> and Shipt aboard a Veſſel that belonged to
+<hi>London,</hi> which in a few days ſet Sail for <hi>Barbadoes,</hi> where
+we arrived in about five Weeks time, but had a very ſickly paſſage,
+inſomuch that nine of my Companions were buried in the Sea. We had not been
+many days in <hi>Barbadoes,</hi> before the Go<g ref="char:EOLhyphen"/>vernour of the ſaid Iſland
+ſummoned the General Aſſembly, who wel<g ref="char:EOLhyphen"/>comed us with the following
+Unchriſtian and Inhumane Acts.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <head>An Act for the governing and retaining within this
+Iſland all ſuch Rebels con<g ref="char:EOLhyphen"/>vict as by his moſt ſacred Majeſties Order
+or Permit, have been or ſhall be Tranſported from his <hi>Europian</hi>
+Dominion to this Place.</head>
+                        <p>WHereas a moſt horrid, wicked and execrable Rebellion
+was lately raiſed and proſecuted within his Majeſties Dominions, by
+<hi>James Scot,</hi> late Duke of <hi>Monmouth,</hi> and <hi>Archibald
+Campbell,</hi> late Earl of <hi>Argile,</hi> and their tray<g ref="char:EOLhyphen"/>terous Complices,
+with intent to deſtroy his Majeſties moſt ſacred Perſon and royal
+Family, to overthrow his Crown and Government, and to render his Dominions the
+Theatres of Blood and Miſery. In prevention whereof, it hath pleaſed the
+divine Providence, which is ever peculiarly watchful to guard the Thrones of
+Princes, to accompany his Majeſties Counſel and Arms with ſuch Succeſs
+and Victory, that the ſaid Rebels and Traytors were utterly deſeated, for
+which im<g ref="char:EOLhyphen"/>pious Fact many of them have ſince deſervedly ſuffered the pains
+of Death, accord<g ref="char:EOLhyphen"/>ing to Law, which the reſt were liable unto, being equally
+guilty of thoſe barbarous Crimes, and muſt have undergone, but that his
+Majeſty, in his Princely and un<g ref="char:EOLhyphen"/>parralled Grace and Clemency hath been
+pleaſed to extend his mercy in ſparing the Lives of ſeveral Thouſands
+of them, by comuting the Execution of their Sentance unto atemporary Service in
+his <hi>American</hi> Colonies; and foraſmuch as his ſacred Majeſty hath
+ſignified it as his royal Pleaſure, that the ſaid Rebels, or ſo many of
+them as ſhould be tranſported to his ſaid <hi>American</hi> Collonies,
+ſhould be there held and obliged to ſerve the Buyers of them, for, and
+during the full ſpace of and term of ten Years at leaſt, and that they be
+not permitted in any manner whatſo<g ref="char:EOLhyphen"/>ever to redeem themſelves by Money, or
+otherwiſe, until that time be fully expi<g ref="char:EOLhyphen"/>red. Therefore we his Majeſties
+moſt dutiful and loyal Subjests, his Lieutenant Governonr, Council, and
+general Aſſembly of this his Majeſties ſaid Iſland, ta<g ref="char:EOLhyphen"/>king the
+Premiſes into our ſerious Conſideration, and being zealous to render all
+due and ready Obedience to his Majeſties Command, as alſo to make apparent
+with how great abhorrence and deteſtation we reſent the ſaid late wicked,
+inhumane
+<pb n="7" facs="tcp:99692:4"/>and damnable Rebellion, and all thoſe
+that were Promotors and Actors therein, have thought it becoming our duty to
+Bnact, and it is hereby Enacted by the Right Honourable <hi>Edward Steed,</hi>
+                           <abbr>Eſq</abbr> Lt. Governour and Commander in chief of this and other the
+<hi>Caribbe Iſlands,</hi> the Honourable, the Council, and general
+Aſſembly of this Iſland, and Authority of the ſame, That what Perſon
+or Per<g ref="char:EOLhyphen"/>ſons ſoever were guilty of the aforeſaid Rebellion, and have been
+therefore Con<g ref="char:EOLhyphen"/>vict, which either already have been, or hereafter ſhall be
+brought to this Iſland, either by his Majeſties order or permit for the
+purpoſe aforeſaid, ſhall be held, compelled and obliged to ſerve and
+obey the Owner or Purchaſer of him or them in their Plantations within this
+Iſland, in all ſuch Labour or Service as they ſhall be commanded to
+perform, and do by their Owners, Maſters or Miſtreſſes, or their
+Overſeers, for the full time and term of Ten Years, from the day of their
+Landing, and diſpoſed of fully to be compleated and ended, any Bargain,
+Law, <g ref="char:V">Ʋ</g>ſage or Cuſtom in this Iſland to the contrary in any wiſe
+notwithſtanding; and to the intent that no Diſobedience may be ſuffered
+or done upon his Majeſties ſaid Orders and Expectations concerning the
+ſaid Rebels convict, but that they may be<g ref="char:EOLhyphen"/>come fully liable unto, and bare
+the aforeſaid mark of their monſtrous Villany. It is farther enacted by the
+Authority aforeſaid, That if any Maſter of a Ship, Importer, Owner,
+Maſter or Purchaſer of any of the Rebels aforeſaid, ſhall ac<g ref="char:EOLhyphen"/>quit,
+releaſe or diſcharge them, or any of them, or do permit them, or any of
+them to redeem themſelves by Money, or other Reward, or Recompence, or
+Con<g ref="char:EOLhyphen"/>ſideration whatſoever, reſpecting either themſelves or the ſaid
+Rebels convict, before the term of ten Years Service in this Iſland, as
+aforeſaid, be fully com<g ref="char:EOLhyphen"/>pleated and ended, or ſhall conive at, or
+aſſiſt unto their, or any of their Re<g ref="char:EOLhyphen"/>moves, With-drawings or Eſcapings
+from off this Iſland, the Party or Parties ſo offending herein ſhall
+therefore forfeit and pay unto his Majeſty, his Heirs and Succeſſors the
+ſum of two Hundred Pound Sterling for each, or every one of the ſaid
+Rebels, which by him or them ſhall be either aquitted, releaſed,
+diſcharged or permitted to be redeemed, or conived at, or aſſiſted
+unto, a remove, with<g ref="char:EOLhyphen"/>drawing or eſcaping off this Iſland, before the full
+end of the Term aforeſaid, over and above the value or recompence for which
+it was permitted or done; and farther ſhall ſuffer Impriſonment in the
+Common Goal of this Iſland, for the ſpace and term of one whole Year,
+without Bail or Mainprize, and be for ever there<g ref="char:EOLhyphen"/>after uncapable of hearing any
+publick Office within this Iſland.</p>
+                        <p>And it is hereby further enacted and ordaired by the
+Authority aforeſaid, that if one or more of the aforeſaid Servants or
+Rebels convict, ſhall attempt, endea<g ref="char:EOLhyphen"/>vour or contrive to make his or their
+eſcape from off this Iſland, before the ſaid term of ten Years be fully
+compleat and ended, ſuch Servant or Servants for his
+<pb n="8" facs="tcp:99692:5"/>or their ſo attempting or indeavouring
+to make eſcape, ſhall upon proof thereof made to the Governour, receive by
+his Warrant <hi>39</hi> Laſhes on his bare Body on ſome publick day in the
+next Market-Town to his Maſters place of abode, and on another Market day in
+the ſame Town, be ſet in the Pillory by the ſpace of one Hour, and be
+burnt in the Fore-head with the Letters <hi>F. T.</hi> ſignifying Fugitive
+Traytor, ſo as the Letters may plainly appear in his Fore-head: but for all
+other Miſdimeanours and Miſcarriages they ſhall be proſecuted and
+puniſhed according to the Laws of this Iſland provided for the governing of
+other Servants.</p>
+                        <p>And to the end the ſaid convict Rebels may be the better
+known &amp; diſtinguiſht, it is hereby further enacted and ordained, that
+within eight days after the arrivat of any Ship or Veſſel to this Iſland,
+in which any of the ſaid convist Rebels are brought, the Maſter of the
+ſaid Ship ſhall deliver to the Governour, and in to the Secrataries Office
+of this Iſland, a true Liſt or Catalogue of thoſe Names upon Oath, and
+the Merchant or Merchants to whom they come conſined, or who have the
+diſpoſal of them, ſhall alſo within eight dayes after finiſhing the
+Sale, give unto the ſaid Office a juſt account of the Perſons Names to
+whom they were ſold, and diſpoſed of; and in caſe of failure herein,
+the ſame ſhall forfeit to the King, his Heirs and Succeſſors the ſum
+of Two Hundred Pounds Sterlings, and the Merchant or Merchants ſhall forfeit
+in like manner the ſum of two Hundred Pounds Sterling.</p>
+                        <p>And for ſuch of the ſaid convict Rebels as have been
+already Imported before the making and publiſhing of this Act, the Maſter
+and Merchant of ſuch Veſſels are hereby required forth-with to deliver to
+the Secratary ſuch Liſt or Cata<g ref="char:EOLhyphen"/>logue as aforeſaid, upon Penalty of the
+like forfeiture, which ſaid Liſt or Cata<g ref="char:EOLhyphen"/>logue the ſaid Secretary is
+required to receive and write out fairly, and cauſe to be hung up in his
+Office, that all Perſons concernced may have free recourſe thereto.</p>
+                        <p>And in caſe the firſt Buyer ſhall ſell, or
+aſſign over any ſuch Rebel or Rebels con<g ref="char:EOLhyphen"/>vict, to any other Inhabitant or
+Inhabitants of this Iſland, the Vender is hereby required to give notice
+thereof to the Secretary, to the end the Name or Names of ſuch Servant or
+Servants may be changed in the Secretarys Office, from the firſt to the
+ſecond, or other Purchaſer or Aſſigns may ſtand charged as the
+firſt.</p>
+                        <p>And in caſe of the death of any of the Servants
+aforeſaid, it is hereby further enacted, That the preſent Owner ſhall
+within fourteen days make, or cauſe Oath to be made before the next, or
+ſome Juſtice of the Peace, of the Name and Death of ſuch a Servant, and
+that he really was in the Record, and not another of the ſame Name, that by
+means of the Certificate ſent to the Secretary's Office that the Secretary
+may charge him dead.</p>
+                        <p>And if any Owners or Vendors ſhall fail in either of the
+Caſes aforeſaid, he
+<pb n="9" facs="tcp:99692:5"/>or they ſhall forfeit to his Majeſty,
+his Heirs and Succeſſors the ſum of twenty five Pound Sterling, and for
+the Secratary's pains therein, and alſo in caſe of changing Maſters or
+Miſtreſſes, the Secratary may receive for ſuch Perſon, dead or
+aſſigned over ſix Pence, and no more.</p>
+                        <p>And to the end none of the Servants or convict Rebels may
+remove or eſcape from this Iſland by obtaining Tickets under wrong Names,
+or other fraudulent or illegal Methods of this kind, it is hereby further
+enacted and ordained by the Au<g ref="char:EOLhyphen"/>thority aforeſaid, that all Juſtices of the
+Peace that ſhall hereafter take Aſſidavits, to be ſent to the
+Secratary's Office; for Perſons that deſign to go off this Iſland ſhall
+always expreſs and inſert in thoſe Aſſidavits, that the Perſon ſo
+going off, and de<g ref="char:EOLhyphen"/>ſiring a Ticket, is not one of thoſe Servants and convict
+Rebels, without which the Secratary is hereby forbidden to grant or produce a
+Ticket; and the Secra<g ref="char:EOLhyphen"/>tary is alſo required to uſe the ſame method in
+ſuch Aſſidavits as ſhall be taken before himſelf, under the Penalty
+of forfeiting to his Majeſty, his Heirs and Suc<g ref="char:EOLhyphen"/>ceſſors the ſum of two
+hundred Pound Sterling, for his neglect in either of theſe caſes, and
+whoſoever obtaining a Ticket lawfully out of the Secratary's Office, being of
+the Name of any of thoſe Rebels, or otherwiſe, and ſhall permit any of
+the ſaid Rebels of that Name, or others, to have ſuch Tickets by which he
+may be in a probable way of making his eſcape off this Iſland, ſhall
+forfeit to the uſe of our Soveraign Lord the King, his Heirs and
+Succeſſors, the ſum of one hundred Pound Sterling, if he be able to pay
+the ſame, and alſo ſuffer Impriſonment in the Com<g ref="char:EOLhyphen"/>mon Goal by the
+ſpace of ſix Moneths, without Bail or Mainprize, the ſaid Com<g ref="char:EOLhyphen"/>mitment to
+be made, and Execution to be levied by Warrant from the Govern<g ref="char:EOLhyphen"/>nour, upon proof
+made before him by two Witneſſes, or one Witneſs, with preg<g ref="char:EOLhyphen"/>nant
+Circumſtances; but in caſe ſuch Perſons be uncapable to make Payment of
+ſuch Forfeiture, he is hereby ordered to lie in Priſon during the ſpace
+of ſix Moneths, and be ſet once in the Pillory by the ſpace of two Hours
+at a time, in each of the four Market-Towns of this Iſland on four ſeveral
+dayes.</p>
+                        <p>And for the encouragement of all ſuch as ſhall inform
+or diſcover any falſe, fraudulant or wicked Practice of this kind, it is
+hereby enacted, that one fifth part of all forfeits in the Act mentioned,
+ſhall be to the uſe and benefit of ſuch Informers.</p>
+                        <p>And to the end the Reſtraint continuing and holding the
+ſaid Rebels convict within this Iſland, during the term aforeſaid, may be
+the effectually and fully ſe<g ref="char:EOLhyphen"/>cured and provided for, and alſo for
+preventing the Servants, Slaves and Deb<g ref="char:EOLhyphen"/>tors of this Iſland from running of,
+by which ſome have periſhed in the Sea, It is is hereby further enacted and
+ordained by the Authority aforeſaid, that every Owner or Keeper of any
+ſmall Veſſel, Sloop, Shallop, Wherry, Fiſhing Boat, or any
+<pb n="10" facs="tcp:99692:6"/>other ſort of Boat belonging to this
+Iſland, ſhall within twenty dayes after publica<g ref="char:EOLhyphen"/>tion hereof, give into the
+Secratary's Office of this Iſland in the ſum of two hun<g ref="char:EOLhyphen"/>dred Pound
+Sterling, excepting the ſmall Boats and Wherries, who are to enter in the
+ſum of ten Pound Sterling, that he will not convey or carry off from this
+Iſland any of the aſoreſaid Rebels convict, or any other Perſon that
+hath not a law<g ref="char:EOLhyphen"/>ful Ticket, or will permit, ſuffer, or conſent to the
+ſame, but will uſe his utmoſt skill, care and diligence in ſecuring and
+guarding his ſmall Veſſel, Sloop, Shallop or Boat, in ſuch manner as
+may muſt probably prevent the Eſcapes of ſuch Fugi<g ref="char:EOLhyphen"/>tives; and if any
+Owner, or Keeper of ſuch ſmall Veſſel, Sloop, Shallop or Boat, ſhall
+hereafter make Sale, Change, or any other Alienation thereof, without firſt
+giving notice in the Secratary's Office, that new ſecurity may be there
+taken, ſuch Veſſel, Shallop or Boat ſhall be forfeited to his
+Majeſty, his Heirs and Succeſſors, and the vendor to be further obliged
+to put in Security to anſwer all Damages that may happen by reaſon of
+ſuch Sale, before ſecurity ſo given; and the like Method and Forfeitures
+is hereby required and appointed unto Maſters of Ships in caſe they ſhall
+ſell, or diſpoſe of any Beat to any of the Inhabitants of this Iſland.
+And whoſoever ſhall hereafter build or ſet up in this Iſland any
+ſmall Veſſel, Sloop, Shallop or Boat, ſhall, when he or they builds the
+ſame, enter in to the Security aforeſaid, under the Penalty of forfeiting
+the materials thereof to his Majſtey, his Heirs and Succeſſors.</p>
+                        <p>And be it further ordained and enacted, that the Secratary
+ſhall have, and recive for the Bond and Certificate for Wherrys, fiſhing
+Boats, and other ſmall Boats, only fifteen Pence; and for all other
+Veſſels of a greater bull five Shil<g ref="char:EOLhyphen"/>lings each, as has been
+accuſtomary.</p>
+                        <p>And be it further enacted by the Authority aforeſaid,
+that it ſhall be Fellony in every Maſter of every Shallop, Sloop, Wherry or
+other Boat belonging to this Iſland, that runneth away with any Shallop,
+Sloop, Wherry, or other Boat which they command.</p>
+                        <p>And it is further enacted by the Authority aforeſaid,
+that if any Woman in this Iſland, Owner or Miſtreſs of any ſuch convict
+Rebels, by any means whatſoever ſhall Inter-marry with any of the ſaid
+convict Rebels, whereby the ſaid Rebels may become free feom their Servitude,
+or ſuffer or conſent to the Marriage of their Daughters, or other near
+Relations, by which ſuch Servant is freed, conived at, or eaſed from his
+ſervitude aforeſaid, that upon notice thereof given to the Go<g ref="char:EOLhyphen"/>vernour and
+Coucil of ſuch Marriage or Marriages, ſuch Rebel or Rebels afore<g ref="char:EOLhyphen"/>ſaid
+ſhall notwithſtanding be by the Governour and Council ordered to ſerve
+the re<g ref="char:EOLhyphen"/>mainder of his time to ſome other Perſon whom the Governour and
+Council ſhall think ſit, and the Woman ſo marrying, as aforeſaid, is to
+forfieit to our Soveraign
+<pb n="11" facs="tcp:99692:6"/>Lord the King, his Heirs or Aſſigns
+the ſum of two hundred Pound Sterling, and ſuffer ſix Moneths
+Imriſonment for ſuch her inter-marrying with any of the ſaid Rebels
+convict.</p>
+                        <p>And laſtly, it is enacted by the Authority aforeſaid,
+that the Act be publiſhed by the Miniſter of the ſeveral Pariſhes in
+this Iſland, in their ſeveral Pariſh Churches once in every ſix Moneths
+from the Date hereof, upon ſuch Penalty as the Governour and Council for the
+time being ſhall think ſit to impoſe on the Perſon ſo neglecting to
+publiſh the ſame.</p>
+                        <closer>
+                           <dateline>Given under my Hand <date>the
+fourth day of <hi>January,
+1685.</hi>
+                              </date>
+                           </dateline>
+                           <signed>Edw. Steed.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>BUt to return to my diſcourſe, we were conſigned to
+<hi>Charles Thomas</hi> and his Company, with perticular Orders and
+Inſtructions from <hi>George Penne</hi> not to ſell me nor my Brother, but
+permit us to make choice of ſome Perſon to own as a titular Maſter;
+however, they were ſo un<g ref="char:EOLhyphen"/>kind, they would not allow us that liberty, but
+compelled us contrary to our Deſires and Inclinations to live with one
+<hi>Robert Biſhop,</hi> pretend<g ref="char:EOLhyphen"/>ing that they had not abſolutely ſold us
+to him, but could remove us again in caſe we diſliked our place; and that
+the ofore-mentioned <hi>George Penne</hi> might not be obliged to repay the
+Money we gave him, they told us we ſhould have the yearly Salary of twenty
+Pounds, which they were to receive for our Service: But theſe pretences were
+only to amuſe us, for afterwards when we were conſtrained by the great
+unkindneſs of our Maſter to addreſs our ſelves unto them, not only in
+Perſon, but alſo by many importunate and affectionate Letters, intreating
+them to uſe their utmoſt endeavour and intereſt with our Maſter in
+order to remove us, but we found it in vain for they had poſſitively ſold
+us, and alſo given it in on their Oaths at the Secrataries Office.</p>
+            <p>When our Maſter perceived that we were uneaſie, and unwilling
+to ſerve him, he grew more and more unkind unto us, and would not give us any
+Clothes, nor me any benefit of my Practiſe, whereby to enable me to provide
+for my ſelf; for I was obliged to give him an account of what Phyſick I
+adminiſtred out of his Plantation, and he received the Money for the ſame.
+Our Diet was very mean, five Pound of ſalt <hi>Iriſh</hi> Beef, or ſalt
+Fiſh a Week for each man, and <hi>Indian</hi> or <hi>Guiny</hi> Corn ground
+on a Stone, and made into Dumplins inſtead of Bread; which courſe and meane
+fare brought me to a violent Flux, inſomuch that I was focced to complain to
+my Maſter, deſiring him to allow me ſome
+<pb n="12" facs="tcp:99692:7"/>Flower inſtead of <hi>Indian</hi> Corn to make
+Dumplins withal, and humbly re<g ref="char:EOLhyphen"/>commended to his conſideration my
+Profeſſion and Practice, which I hoped would render me deſerving of
+better Accomodation than was uſually al<g ref="char:EOLhyphen"/>lowed to other Servants; but he, not
+moved with Pity, angrily replyed, <hi>I ſhould not have ſo good.</hi>
+Whoſe unkind anſwer moved me ſo, that I had the confidence to tell him,
+That I would no longer ſerve him, nor any other as a Surgeon, unleſs I were
+entertained according to the juſt Merits of my Profeſſion and Practice,
+and that I would chuſe rather to work in the Field with the <hi>Negroes,</hi>
+than to diſhonour my Profeſſion by ſerving him as a Phyſitian and
+Surgeon, and to accept of the ſame entertainment as common Servants. My angry
+Maſter at this was greatly enraged, and the fiery Zeal of his immoderate
+Paſſion was ſo heightned by ſome lying Stories of a fellow Servant,
+that he could not content himſelf with the bare execution of his Cane on my
+Head, Arms and Back, although he had played ſo long thereon like a furious
+Fencer, until he had ſplit him in pieces, but he alſo confined me cloſe
+Priſoner in the Stocks, which ſtood in a open place, expoſed to the
+ſcorching heat of the Sun, where I remained about twelve Hours, until my
+Miſtriſs, moved either with Pitty or Shame, gave oder for my releaſe.</p>
+            <p>It would be too tedious to give a perticular Account of the many
+other Abuſes and Unkindneſſes we received at his Hands, and therefore it
+ſhall ſuffice to ſay that in this condition we lived with him about
+fifteen Moneths, until by his debauched and extravagant courſe of Life he had
+run himſelf ſo extreamly in Debt, and perticularly to thoſe Merchants
+that ſold us to him, that he could not well pay for us; for which reaſon we
+were removed from him, but the Merchants were forced to remit the Money due for
+our Service, before he would return us. And now being returned again, we
+remained in the Merchants Hands as Goods unſold; and becauſe I would not
+conſent to be diſpoſed of at their pleaſure, they threatned to
+Horſe-whip me, and put me to ſervile Imployment.</p>
+            <p>But we had not been long here before my Brother dyed, and I being
+wea<g ref="char:EOLhyphen"/>ried with long and fruitleſs Expectation of my Pardon, and no leſs
+per<g ref="char:EOLhyphen"/>plexed and tired with the great Abuſes I had received at their Hands,
+re<g ref="char:EOLhyphen"/>ſolved to attempt the making my eſcape from off the Iſland; to which
+purpoſe after ſeveral contrivances and ways that came into my Head, and
+thoſe well weighed with all the conſequent Circumſtances that
+poſſibly I could foreſee, I concluded at length to proceed after this
+manner:</p>
+            <p>Being introduced by a Friend into the acquaintance of one <hi>John
+Nuthall,</hi>
+               <pb n="13" facs="tcp:99692:7"/>a Carver, whoſe condition was ſomewhat mean,
+and therefore one that wanted Money to carry him off the Iſland, I imparted
+my deſign unto him, and employed him to buy a Boat of a <hi>Guiney</hi> Man
+that lay in the Road, promiſing him for his Reward not only his Paſſage
+free, and Money for his preſent Expences, but to give him the Boat alſo
+when we arrived at our Port.</p>
+            <p>By the way, it is to be underſtood, that the means which enabled
+me to defray theſe extraordinary Charges, was a private Conſignation of
+Goods from my Relations to a perticular Friend in the Iſland, who took care
+to diſpoſe of them for me. <hi>John Nuthall</hi> therefore readily
+conſented to what I propoſed, and after I had enjoyned him to ſecrecy, I
+delivered him twelve Pounds to buy the Boat, which accordingly he did, and gave
+in Security for the ſame at the Secratary's Office, conformable to the
+Cu<g ref="char:EOLhyphen"/>ſtom and Laws of the Iſland; nevertheleſs, all that would not prevent
+the Jealouſie of the Magiſtrates that ſprung from the conſideration of
+his Poverty, and the little ſervice they knew the Boat would do him,
+where<g ref="char:EOLhyphen"/>upon they ſent for <hi>John Nuthall,</hi> and ſtrickly commanded him
+to diſcover who it was that had employed him to buy the Boat, and threatned
+to put him to his Oath; nevertheleſs they could get nothing out of him, for
+the man had ſo much Courage, that he confidently denyed that any Perſon had
+employed him, but that he bought the Boat meerly for his own uſe.</p>
+            <p>Yet was not all this ſufficient, they ſtill threatned to
+ſeaſe the Boat, un<g ref="char:EOLhyphen"/>leſs he gave in better ſecurity; Upon which he came
+to me, to adviſe what was beſt to be done, I ordered him forwith to ſink
+the Boat; which as it very much abated the ſuſpition of the Magiſtrates,
+ſo it ſecu<g ref="char:EOLhyphen"/>red the Boat from ſeiſure: While theſe things were in
+agitation, one of <hi>John Nuthall</hi>'s Creditors, to whom he owed ſeven
+Pounds for Tools, threatned to Arreſt him, unleſs he paid him down the
+Money, which was no ſmall ſurpriſe to a Man that had no Money to make his
+Pay<g ref="char:EOLhyphen"/>ment; however, having a days reſpite to procure ſatisfaction, he came
+and told me, <hi>That unlſes I would ſupply him with Money to pay his Debt,
+ne<g ref="char:EOLhyphen"/>ceſſity would conſtrain him to diſcover my deſign;</hi> So that
+well knowing the danger I was in, I was forced to ſupply him. And here I
+muſt not omit to relate that by this time I had diſcovered my deſign to
+two of my Ac<g ref="char:EOLhyphen"/>quaintance under the ſame Circumſtances, <hi>Thomas
+Auſtin</hi> and <hi>John Whicker,</hi> who readily agreed to be my
+Companions, and gave me what Money they could well ſpare to help carry on the
+deſign, but my ſelf was the chief contriver and manager of the whole,
+having more time and liberty
+<pb n="14" facs="tcp:99692:8"/>than they; for I uſually met <hi>John
+Nuthall</hi> every Night at ſome convenient place, remote from the Town by
+the Sea ſide, where after we had con<g ref="char:EOLhyphen"/>ſulted together, he took his
+Inſtructions how to proceed.</p>
+            <p>In this interval of time, the Boat being ſunk, and by that means
+the ſuſpition of the Magiſtrates quite over. <hi>John Nuthall</hi>'s debt
+paid, and he again ſecured to Secreſie, we began to think of providing
+Neceſſaries for our intended Voyage, which as they occured to my thoughts,
+I ſet them down, that ſo nothing might be forgotten, which take as
+followeth, A hundred weight of Bread, a convenient quantity of Cheeſe, a Cask
+of Water, ſome few Bottles of <hi>Canary, Madera</hi> Wine, and Beer: Theſe
+for the ſupport of Nature; and then for Uſe, a <hi>Compaſs, Quadrant,
+Chart, half Hour-Glaſs, half Minute-Glaſs, Log</hi> and <hi>Line,</hi>
+large <hi>Tarpaulin,</hi> a <hi>Hatchet, Hammer, Saw</hi> and <hi>Nailes,</hi>
+ſome ſpare Boards, a Lanthorn and Candles: All which were privately
+conveyed to a Friends Houſe not far from the Water-ſide, to be in a
+readineſs againſt the time. Which af<g ref="char:EOLhyphen"/>ter I had bethought my ſelf, who
+beſides to make choice of for my Com<g ref="char:EOLhyphen"/>panions, was the next thing to be
+conſidered of, but that a luckey chance after a ſhort expectation,
+preſented us with one; for within few dayes the Governour of <hi>Mevis</hi>
+putting in at the <hi>Barbadoes,</hi> the Governour, for his more noble
+entertainment, cauſed the Malitia of the Town to be in Arms, which was
+attended with Revelling, Drinking and Feaſting to exceſs; the conſequence
+of which I eaſily conjectured would be drowſie Security and
+Careleſneſs: This time I therefore thought moſt proper for our intended
+enterprize, and gave notice thereof to my intended Companions, moſt of whom I
+kept ignorant of my deſign until now, fear<g ref="char:EOLhyphen"/>ing it ſhould by any means be
+diſcovered, and ordered them not to carry home their Arms, but to bring them
+after it was Night to a certain Store-houſe by the Wharf, where I deſigned
+to put to Sea: the Store-houſe being then under the care of <hi>John
+Wicker,</hi> one of my Confederates, and therefore a moſt happy convenience
+to conceal both them and their Arms till it was time to ſet Sail.</p>
+            <p>In the mean time <hi>John Nuthall</hi> employed two luſty
+<hi>Blacks</hi> to empty the Water out of our Skiff, and ſet her a float, and
+then brought her to the Wharf before the Store-houſe, whither by this time we
+had conveighed our Neceſſaries, keeping the <hi>Blacks</hi> within the
+Store-houſe, that they might have no opportunity to diſcover our deſign.
+About eleven a Clock at Night, thinking it time to embark in our ſmall
+Veſſel, we aſſigned one of our Company to ſtand Centry at the head of
+the Wharf, to give
+<pb n="15" facs="tcp:99692:8"/>us notice if the Watch ſhould happen to come
+that way; and Then with all ſpeed we put our Proviſions and Neceſſaries
+aboard; which we had no ſooner done, but we had an Alarm that the Watch was
+approaching to the head of the Wharf: a misfortune which ſo ſurprized us,
+that we all of an inſtant betook our ſelves to our Heels, and for my own
+part ſoon recovered a Friends Houſe, giving all for loſt, ſuppoſing
+my Com<g ref="char:EOLhyphen"/>panions were fallen into the Enemie; hands. But whilſt I was condoling
+my Misfortune to my Friend, and giving him a lamentable account of our attempt
+and diſcovery, and alſo conſulting whither to retire in the Country to
+lie dormant if poſſible, till ſome better opportunity offered it ſelf,
+I heard a Perſon at the Window enquiring for me. At firſt I was in a
+dreadful fear, leſt it was one of the Watch in quick perſuit after me, but
+knowing him by his Voice to be one of my Companions, I gladly re<g ref="char:EOLhyphen"/>ceived the
+account he gave me, which was, that the Watch came only to call up one of their
+Number that was to watch with them that Night, and then went away without
+taking the leaſt notice of the Boat. However, I was ſo diſheartened by
+this unlucky Accident, that I was altogether un<g ref="char:EOLhyphen"/>willing to make a ſecond
+attempt, till at length over-ruled by the Im<g ref="char:EOLhyphen"/>portunity of my Friend, more
+eſpecially when he told me that they all waited for me, and could not go
+without me (for neither of them had any skill in Navigation) and conſidering
+the baſeneſs of diſappoint<g ref="char:EOLhyphen"/>ing ſo many Perſons whom I had ingaged in
+ſo much danger, I reſolved once more to hazard a burnt Forehead and fore
+Back, and going with him to the Water ſide, I found my Companions by the Boat
+waiting for me, and not a little glad to ſee me come again; then we put the
+<hi>Negroes</hi> into the Store-houſe, charging them not to ſtir forth, or
+make any noiſe till the Morning; and to incourage them to be faithful to us;
+I gave them three half <hi>pieces of Eight</hi> for their good Service.</p>
+            <p>This done, and thus delivered from our Fears, we embarked in our
+ſmall Veſſel, being in number eight, namely, <hi>John Whicker, Peter
+Bagwell, William Woodcock, John Cooke, Jeremiah Atkins,</hi> and my ſelf,
+which were Sufferers on the account of the Duke of <hi>Monmouth;</hi> the other
+two was <hi>John Nuthall</hi> who bought the Boat for me, and <hi>Thomas Waker.
+Thomas Auſtin,</hi> of whom I formerly ſpake, was ſo poſſeſſed
+with fear of being caſt away, that he would not go with us: About Midnight we
+put off to Sea, deſigning for <hi>Quiraſao,</hi> a <hi>Dutch</hi> Iſland,
+that lies about 200 Leagues thence, for we durſt not go to any
+<hi>Engliſh</hi> Iſland, for fear we ſhould be taken and ſent back
+again. We rowed ſoftly forward within a Piſtols
+<pb n="16" facs="tcp:99692:9"/>ſhot of the fort; for there lay at that time a
+Man of War in the Road, which made us not a little afraid of being diſcovered
+by thoſe watchful Enemies, but Providence ſo ordered it, that we paſſed
+both without diſ<g ref="char:EOLhyphen"/>covery. However, by that time we were got clear of the Fort
+and Shiping, our Boat being ſo extream leaky, had taken in ſo much Water,
+that we were almoſt ready to ſink, not daring to heave it out before for
+fear of making a noiſe to alarm our Enemies: But having the conveniency of a
+Tub and large wooden Bowle, we fell to work, and in a little time we pretty
+well emptied our Boat, and then we ſet our Maſt and hoiſted our Sail, and
+ſteered our Courſe <hi>South-Weſt</hi> as near as I could judge,
+(intending to make the <hi>great Granada</hi>) for our Candles being brui<g ref="char:EOLhyphen"/>ſed
+into one maſs of Tallow, and our Tinder and Matches wet, we could not
+ſtrike a light to ſteere by our Compaſs, neither indeed had we any
+Candles lighted for the ſame Reaſon, during our whole Voyage, ſo that in
+the Night we were forced to ſteere by the Stars, and when it was cloudy, by
+the Wind.</p>
+            <p>That which troubled us moſt, was the leakineſs of our little
+Veſſel, for although we endeavoured all we could to ſtop her gaping
+Seams, with our Linnen, and all the Rags we had, which we tallowed with our
+brui<g ref="char:EOLhyphen"/>ſed Candles, yet ſhe was ſo thin, ſo feeble, ſo heavy loaden,
+and wrought ſo exceedingly, by reaſon of the great motion of the Sea, that
+we could not poſſibly make her tight, but was forced to keep one Perſon
+almoſt con<g ref="char:EOLhyphen"/>tinually Night and Day, to throw out the <hi>water,</hi> during
+our whole Voyage; the ſame Night moſt of my Companions were ſo Sea
+ſick, that notwith<g ref="char:EOLhyphen"/>ſtanding we were all ready to ſink, I could hardly
+perſwade them to throw out the Water, and my place being at the Helm to guide
+and go<g ref="char:EOLhyphen"/>vern the Boat, I could not ſafely go thence; however at length,
+through great Importunity and earneſt Perſwaſions, I prevailed with them
+to take a little pains to preſerve us from drowning. My Companions now began
+to wiſh themſelves at <hi>Barbadoes</hi> again, and would willingly have
+returned, but I told them, there was no poſſibility of it, being ſo far
+to leward of the Iſland. One of them through Careleſneſs in heaving out
+the Water, threw over our wooden Bowle, and we running away with a large Wind,
+could not go back to take it up, ſo that we had nothing left to throw out the
+Water but our Tub, which obliged them to be more careful of it, for our Lives
+were concerned therein.</p>
+            <p>
+               <hi>May</hi> the 10th, in the Morning we were got almoſt out of
+ſight of the Iſland, at leaſt far enough from being deſcried from
+thence: And per<g ref="char:EOLhyphen"/>ceiving
+<pb n="17" facs="tcp:99692:9"/>no ſort of Veſſel in perſuit of us, we
+began to be cheered up with the thoughts of our Liberty, and the hopes of our
+ſafe arrival at our deſired Port: But then alas! the Night no ſooner
+approacht, but we were aſſailed with a brisk Gale of Wind, under which
+misfortune ano<g ref="char:EOLhyphen"/>ther worſe befell us, that we ſplit our Rudder, ſo that we
+were forced to lower our Sail, and with an Oar to keep our Boat before the Sea,
+whilſt one of my Company (a Joyner) mended our Helm, by nailing to it two
+pieces of Boards, that done, we went cheerily on again.</p>
+            <p>
+               <hi>May</hi> the 11th, we had indifferent good Weather, and my
+Companions pretty well recovered of their Sea ſickneſs, and now we had time
+to put things in a better poſture in our Boat, and to raiſe her, which we
+did by nalling on Tarpolings from her ſides to our Oars, that were laſht
+faſt about nine Inches above, which did us good ſervice in keeping out the
+Sea: We likewiſe made a Tilt, with a Hamock over the hinder part of our Boat,
+to defend us from the ſcorching heat of the Sun.</p>
+            <p>
+               <hi>May</hi> the 12th, this Morning notwithſtanding we ſteered
+<hi>South-Weſt</hi> to weather the <hi>Great Granada</hi> the Currant had
+ſet us ſo much to the <hi>North<g ref="char:EOLhyphen"/>ward,</hi> that we made the
+<hi>Granadilloes</hi> to bear <hi>Weſt</hi> of us, which obliged us to
+ſteere more <hi>Southerly</hi> to weather the <hi>Great Granada.</hi>
+            </p>
+            <p>
+               <hi>May</hi> the 13th, the laſt Night we weathered the <hi>Great
+Granada,</hi> and ſteered down the <hi>South</hi> ſide of the ſame, and
+then ſhaped our Courſe for the <hi>Teſtegoes,</hi> for I could not take
+any true Obſervation by my <hi>Qua<g ref="char:EOLhyphen"/>drant,</hi> becauſe of the uneven motion
+of the Sea, and the nearneſs of the Sun to the Zenith, and therefore was
+conſtrained to ſteere a Courſe from Iſland to Iſland, though the
+farther way about.</p>
+            <p>
+               <hi>May</hi> the 14th, We had fair Weather, and a freſh Gale of
+Wind, and about Noon, as I remember, we made the <hi>Teſtegoes,</hi> bearing
+<hi>South, South-Weſt,</hi> and before Night made the <hi>North-Eaſt</hi>
+end of the <hi>Magaretaes.</hi> But by this time being ſo extreamly ſpent
+for want of ſleep, having been obli<g ref="char:EOLhyphen"/>ged for the moſt part Night and Day to
+ſteere the Boat, I was deſirous to take a little Reſt, but firſt I
+directed one of my Companions how to ſteere down by the ſaid Iſland, and
+then compoſed my ſelf to Sleep, in which interval of time my Companions
+eagerly longing for freſh Water, regard ours ſtunk ſo extreamly as it
+did, ſtood in for the Land, and loar'd the Sail, deſigning to go aſhore,
+at which time I happily awoke, and ap<g ref="char:EOLhyphen"/>prehending the great danger of falling
+into the Hands of the <hi>Indians,</hi> who had already kindled a Fire on the
+Shore not far from us, I cauſed the Sail again to be hoiſtup, &amp;
+haſted away with all Expedition, &amp; being favou<g ref="char:EOLhyphen"/>red
+<pb n="18" facs="tcp:99692:10"/>with a brisk Gale of Wind got ſoon out of
+fear or danger of thoſe ſavage <hi>Canibals.</hi>
+            </p>
+            <p>
+               <hi>May</hi> the 15th, we had fair Weather, and very pleaſant
+Sailing down the <hi>North</hi> ſide of this Iſland: But when we had got
+about the middle of the Iſland my Companions were no leſs importunate than
+before to go aſhore for freſh Water; to which I at length conſented,
+partly becauſe I ſaw that part of the Iſland free from Inhabitants, and
+partly enticed by the fair appearance of a ſandy Bay, and the Water ſeemed
+ſo ſmooth, that I thought we could not injure our Boat by running her
+aſhore, in regard we had neither Anchor nor Grapling to ride her off. But
+con<g ref="char:EOLhyphen"/>trary to our expectations, and to our great ſurpriſal, we found the
+Ground near the Shore exrream foul, and the Sea heaved us ſo faſt in, that
+we could not poſſibly avoid being ſplit on the Rocks, had not I leapt
+into the Sea to fend her off, which whilſt I laboured to do with my Feet
+againſt the Rock, till I was almoſt ſpent, my Companions with their two
+Oars rowed her off, at which our Hearts were filled with Joy, and our Mouthes
+with Praiſes to the Lord, who had ſo wonderfully preſerved us from be<g ref="char:EOLhyphen"/>ing
+caſt away on this Iſland, where probably we muſt either have been
+ſtarved our ſelves, or have become Food for thoſe inhumane
+<hi>Man-eaters.</hi> From the <hi>Weſt</hi> end of this Iſland we directed
+our Courſe for <hi>Saltatudos,</hi> but that After-noon the Wind increaſed,
+and a white Ring encircled the Moon, which I thought preſaged ill Weather,
+and to our great ſorrow proved too true, for about nine at Night a dreadful
+Storm aroſe, which made us deſpair of ever ſeeing the Morning-Sun; and
+now the Sea be<g ref="char:EOLhyphen"/>gan to foam, and to turn its ſmooth Surface into Mountains and
+Vales, our Boat was toſſed and tumbled from one ſide to the other, and
+ſo vio<g ref="char:EOLhyphen"/>lently driven and hurried away by the fury of the Wind and Sea, that I
+was affraid we ſhould be driven by the Iſland in the Night time, and
+therefore we brought our Boat too, with her Head againſt the Sea; but the
+Wind and Sea ſtill increaſing we was forced to bear up before it, with only
+Sail ſufficient to give her ſteeridge way. And now in vain we began to
+wiſh our ſelves at the <hi>Barbadoes</hi> again, or which was worſe on
+that Iſland on which we were ſo lately like to have been wrackt, believing
+that a Miſery then, which now we ſhould have thought a happineſs; and
+that which confirmed us the more in the certainty of our approaching Ruin, was
+an unexpected Voice, which to our thinking, ſeemed to hallow to us at a great
+diſtance. But the Omnipotent, who is never unmindful of the Cries of his
+People in Diſtreſs, heard our Prayers; ſo that when all
+<pb n="19" facs="tcp:99692:10"/>our Hopes were given over, and we had
+reſigned our ſelves into his Hands, expecting every moment when the wide
+gaping Sea would de<g ref="char:EOLhyphen"/>vour and ſwallow us up, God of his infinite Mercy and
+unſpeakable Goodneſs, commanded the violence of the Winds to ceaſe, and
+allayed the fury of the raging Waves, eternal Praiſes to his Name for
+evermore.</p>
+            <p>
+               <hi>May</hi> the 16th, this Morning at break of Day ſaw the
+Iſland of <hi>Salta<g ref="char:EOLhyphen"/>tudos</hi> juſt before us, and when it was
+ſufficiently light that we could diſ<g ref="char:EOLhyphen"/>cern how the Land lay, we ſteered
+down the <hi>North</hi> ſide, intending to go aſhore at ſome convenient
+place to refreſh our ſelves after that dreadful Storm, and to take on board
+ſome freſh Water, and if poſſible to ſtop the leaks of our Boat, in
+order to proceed in our Voyage for <hi>Quiraſoe,</hi> and accordingly when we
+came to leward of a ſmall Iſland hard by the other, we ſtood in directly
+for the ſhore, thinking it a convenient place to Land, which we had no
+ſooner done, but we ſaw a Canow coming thence directing her Courſe
+towards us; at which ſight being a little ſur<g ref="char:EOLhyphen"/>priſed, my Companions
+provided their Arms, and charged their Muſ<g ref="char:EOLhyphen"/>quets and Blunderbuſs with
+pieces of Glaſs-Bottles (for we coming from <hi>Barbadoes</hi> in ſo great
+a hurry and fear, through forgetfulneſs they left their Bag of Bullets on the
+Wharf.) When they were come ſome<g ref="char:EOLhyphen"/>what nearer, that we could perceive them to
+paddle like <hi>Indians,</hi> we bore up and were running from them; which as
+ſoon as they perceived they waved their Hats, and hailed us, by which we knew
+they were not <hi>In<g ref="char:EOLhyphen"/>dians,</hi> as we ſuppoſed, and therefore permitted
+them to come nearer, and perceiving them to be white men, we enquired what they
+were, they told us, <hi>They were Engliſh men in diſtreſs,</hi> &amp;c.
+<hi>and waited for an opportunity to go off the Iſland.</hi> The account we
+gave them of our ſelves was very ſhort, That we came from one of the
+Windward Iſlands, by which they ſuppo<g ref="char:EOLhyphen"/>ſed we had fled for Debt, and
+ſhould have continued in that belief, had not <hi>Thomas Waker,</hi> one of
+my Companions, privately informed them, that there was only he and <hi>John
+Nuthall</hi> that were Debtors, the reſt of us being Rebels; for he thought
+thereby to ingratiate himſelf and Friend into their favour. But theſe
+<hi>Privateers</hi> (for ſo they were as we afterwards underſtood) hated
+them the more for their Treachery, and loved us the better, confeſſing that
+they were Rebels too, adding, <hi>That if the Duke of</hi> Monmouth, <hi>had
+bad One Thouſand of them, they would ſoon have put to flight the King's
+Army.</hi> But to proceed, when we came to the ſhore the <hi>Privateers</hi>
+aſſiſted us to hall up our Boat, that ſhe might not be injured by the
+Sea, having no conveniency to ride her off; which done, they
+<pb n="20" facs="tcp:99692:11"/>ſhewed us the Well of freſh Water, which
+was hard by their Huts, where we refreſhed our ſelves a little, and with
+our Sail we made a ſhade to keep the Sun from us, and when we had ſo done,
+we lay down under it to refreſh our ſelves with Reſt and Sleep, having
+had but little of either all our Voyage, being ſo extreamly thronged together
+in our little Boat. Theſe <hi>Privateers</hi> at firſt were very kind to
+us, and gave us ſome of their Pro<g ref="char:EOLhyphen"/>viſion, and related to us the Story of
+their Adventures, which to the beſt of my memory was thus that they formerly
+belonged to one Captain <hi>Yanche,</hi> Commander of a <hi>Privateer</hi> of
+48 Guns that deſigned to plunder a <hi>Spaniſh</hi> Town by the Gulf of
+<hi>Florida,</hi> called St <hi>Auguſteen,</hi> and in order thereunto ſent
+thirty of them out into the Gulf of <hi>Flo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ida,</hi> to take Canows from the
+<hi>Indians</hi> for the more convenient and ſpeedy Landing their men, but
+they going aſhore on the Main to turn Turtle, was ſet upon by the
+<hi>Indians,</hi> and two of them killed on the place; however at length they
+put the <hi>Indians</hi> to flight, and ſome time afterwards took two or
+three Canows, and one <hi>Indian</hi> Priſoner, who conducted them to his own
+and his Fathers Planta<g ref="char:EOLhyphen"/>tions (on condition they would afterwards ſet him
+free) where they ſtored themſelves with Proviſions, and other
+Neceſſaries; but it coſt them dear, for their Quarter-Maſter and one
+more of the Company was po<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſoned, by their unwary eating of
+<hi>Caſader</hi> Roots, the reſt of them went with thoſe Canows and
+<hi>Indian</hi> which they had taken, to the place ap<g ref="char:EOLhyphen"/>pointed, expecting to
+meet their Man of War, but could not find him, and therefore being
+neceſſitated to ſhift for themſelves as well as they could, they came
+to this Iſland, hoping to meet here with ſome Veſſel loading of Salt,
+in which they might get paſſage for ſome <hi>Engliſh</hi> Port, but was
+diſappointed here alſo, for the Ships were all gone before they came.</p>
+            <p>After we had ſufficiently refreſht our ſelves with Reſt
+and Sleep, and re<g ref="char:EOLhyphen"/>turned to the Lord the Praiſes due unto his Name for this
+wonderful &amp; mi<g ref="char:EOLhyphen"/>raculous deliverance, we thought it time to conſider how
+to ſtop the Leaks of our Boat, and to raiſe a Deck over her with Rinds of
+Trees, <hi>&amp;c.</hi> that we might proceed in our intended Voyage for
+<hi>Quiraſoe,</hi> our Intentions were no ſooner perceived by the
+<hi>Privateers,</hi> but they endeavoured to perſwade us from it, alledging
+the inſufficient of our Boat, and the Dangers we were ſo lately expoſed
+unto, adviſing us rather to go with them in their Pereagoes a Privateering,
+than to hazard our lives by a ſecond attempt; with the like Argument they
+would have eaſily prevailed with my Companions to con<g ref="char:EOLhyphen"/>ſent to go with them,
+had I not perſwaded them to the contrary. But
+<pb n="21" facs="tcp:99692:11"/>when the <hi>Privateers</hi> ſaw it was in
+vain to perſwade, they thought to com<g ref="char:EOLhyphen"/>pel us by burni<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g our Boat,
+ſuppoſing th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n that we would chuſe rather to go with them, then to ſlay
+upon the Iſland till S<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ping came for Salt, which would be eight or nine
+Moneths, and in the mean time to be in danger of being taken by the
+<hi>Spamards</hi> for <hi>Privateers,</hi> or otherwiſe to be ſtarved with
+Hunger; for we had no more then four or five pound of Bread for each man left.
+But this contrivance anſwered not their Expectations; for notwithſtanding
+they burnt our Boat, and took our Sails; and other U<g ref="char:EOLhyphen"/>tenſils from us, I
+continued my reſolution, and choſe rather to truſt di<g ref="char:EOLhyphen"/>vine Providence on
+that deſolate and uninhabitable Iſland, than to par<g ref="char:EOLhyphen"/>take or be any ways
+concerned with them in their <hi>Piracy,</hi> having confi<g ref="char:EOLhyphen"/>dence in my ſelf,
+that God who had ſo wonderfully and miraculouſly preſerved us on the Sea,
+and brought us to this Iſland, would in like manner deliver us hence, if we
+continued faithful to him. And in order to our better Accomodation and
+Preſervation on this Iſland, I gave the <hi>Privateers</hi> 30 pieces of
+Eight for the <hi>Indian</hi> they took on the Main (but was not ſo true to
+their Promiſe as to ſet him at liberty (which I expect<g ref="char:EOLhyphen"/>ed would be
+ſerviceable unto us in cat hing Fiſh, <hi>&amp;c.</hi>)</p>
+            <p>About the 25th of <hi>May,</hi> twenty two of the
+<hi>Privateers</hi> having firſt rai<g ref="char:EOLhyphen"/>ſed the ſides of their Pereagoes
+with Boards (faſtened with the Nails they ſaved in the burning our Boat)
+and fitted them for the Sea, they ſet ſail, lea<g ref="char:EOLhyphen"/>ving four of their Company
+behind that refuſed to go with them, as alſo a <hi>Spaniſh</hi> Boat that
+was of no ſervice to them, neither could be of any uſe to us, unleſs we
+had Sails to ſail her, and a Rudder to guide her, both of which we
+wanted.</p>
+            <p>In this condition they left us, deprived of all ways and means of
+getting off until the ſeaſon aforeſaid, unleſs God by a perticular
+Providence ſhould direct ſome Veſſel or other to touch here.</p>
+            <p>But before I proceed to give account of our manner of Life in this
+place, I think it neceſſary to give a ſhort deſcription of the Iſland
+it ſelf, which is ſcituated in the Latitude of 11 Degrees, and 11 Minutes
+<hi>North</hi> Latitude, its extent is about twelve Miles in length, and two or
+three in breadth, and is about one hundred and twenty Leagues from
+<hi>Barbadoes,</hi> called by the <hi>Spainards Tortuga,</hi> from the great
+plenty of <hi>Turtle</hi> that reſorts thither, but our <hi>Engliſh</hi>
+gives it the Name of <hi>Saltitudos,</hi> becauſe there is ſuch great
+quantity of Salt yearly brought from thence; the <hi>Spaniard</hi> claims the
+Pro<g ref="char:EOLhyphen"/>priety of this Iſland, lying ſo near the Main where they inhabit, and
+therefore will ſometimes take our <hi>Engliſh</hi> Veſſels as they are
+loading of
+<pb n="22" facs="tcp:99692:12"/>Salt, of which they took two the Seaſon
+before we came there. The <hi>Eaſt</hi> and <hi>Weſt</hi> end of this
+Iſland is for the moſt part Sand, the middle conſiſts of hard and
+carggy Rocks, that are very poreous, reſembling honey Combs, and therefore we
+called them <hi>Honey-Comb Rocks:</hi> There is plen<g ref="char:EOLhyphen"/>ty of ſmall Buſhes
+growing out of the Sand, and Shrubs from between the Rocks, but no Timber Trees
+on the whole Iſland.</p>
+            <p>One the <hi>South</hi> ſide near the <hi>Eaſt</hi> end, is the
+Salenaes, or ſalt Ponds, from whence the Salt is brought; which is thus made,
+the Sea or ſalt Water penetrates through the beachy Banks of the Sea, and
+over-flows a large Plain of two or three Miles circumference, near a Foot deep,
+where by the ſcorching heat of the Sun the thin Aqueous part is exhaled, and
+the Saline part is Coagulated into pure white Chriſtaline Salt; and becauſe
+there is a continual ſupply of Salt Water from the Sea, the Sun continues
+exhaling and coagulating, until the whole Salenaes is deeply covered over with
+Salt, ſo that all they have to do is only to rake it together, and carry it
+aboard. There is great plenty of Birds and Fowl, as <hi>Pellicans Flammans,
+Parakets, Mocking Birds,</hi> and a innumerable company of Sea-Fowl, and ſome
+<hi>Vegi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>able</hi> Productions, of which I ſhall have occaſion to treat
+here<g ref="char:EOLhyphen"/>after.</p>
+            <p>But to return from this Digreſſion, the <hi>Privateers</hi>
+had no ſooner left us, but we found our ſelves of neceſſity obliged to
+ſeek out for Proviſion, and being led by the Example of thoſe four
+<hi>Privateers</hi> that ſtaid behind, we w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lked along the Sea-ſhore to
+watch for <hi>Tortoiſe</hi> or <hi>Turtle,</hi> which when they came up out
+of the Sea to lay their Eggs in the Sand, we turn<g ref="char:EOLhyphen"/>ed them on their Backs, and
+they being uncapable of turning themſelves again, we let them remain ſo
+till the day following, or until we had con<g ref="char:EOLhyphen"/>veniency of killing them; for if
+they were ſufficiently defended from the <hi>heat of the Sun</hi> by a
+ſhade, which we uſually built over them, they would live ſeveral days out
+of the Water: And thus we walked to and fro in the Night time to turn
+<hi>Turtle,</hi> and in the Day time we were imployed in kil<g ref="char:EOLhyphen"/>ling them, whoſe
+Fleſh was the chiefeſt of our Diet, being roaſted by the Fire on wooden
+Spits; and ſometimes when we deſigned a Feaſtival we left ſome part of
+the Fleſh on the Calepatch and Calapee, that is, the Back and Breaſt
+Shells, which we roaſted, by ſetting them upright in two forked Sticks
+thruſt into the Sand, before a large Fire: what we did not eat we cut into
+long and ſlender pieces, and after we had ſalted it very well, we dried it
+carefully in the Sun on ranges of Sticks ſet up for that purpoſe; for we
+had no other way of preſerving it, having nothing to
+<pb n="23" facs="tcp:99692:12"/>wet ſalt it in, but we found it ſo
+difficult to divide their ſhells, that we broke our <hi>knives,</hi> and were
+forced to make new ones out of the <hi>ſwords</hi> my <hi>Com<g ref="char:EOLhyphen"/>panions</hi>
+brought with them, which we did after this manner; firſt, we broke them into
+ſuitable lengths, and ſoftned them in the Fire, and then rub<g ref="char:EOLhyphen"/>ed them on a
+Stone to a fit ſhape and thinneſs, and after we had hardened them again, we
+fixt them in Hafts, and made them more ſerviceable then our former. And here
+for the better Information of ſome Perſons I think fit to deſcribe
+theſe Sea Beaſts (if I may ſo call them) which are ſomewhat of an Oval
+form, ſtrongly defended on the Back and Breaſt with a thick Shell, and have
+four Fins covered with thick Scales, that ſerve them inſtead of Legs when
+they come aſhore; they feed on <hi>Wooſe</hi> or <hi>Sea Graſs</hi> that
+grows out of the Rocks, which I judge is the true reaſon they do not eat
+Fiſhy; they breathe, and therefore are obliged to come frequently up to the
+ſurface of the Water, on which they ſometime float ſo ſound a ſleep,
+that they give Sea-men opportunity with a Boat to take them up; their Fleſh
+is very delightſome and pleaſant to the taſte, much reſembling Veal,
+but their Fat is more yellow; the ſhe or Female <hi>Turtle</hi> comes up on
+the Shore to lay their Eggs in the Sand three times in the Year, in the Moneths
+of <hi>April, May</hi> and <hi>June,</hi> where they are brought to Maturity by
+the ſweet Influence of the Sun; and when the young ones are hatcht they
+muſters out of their Cells, and marches into the Sea, but not without danger
+of being devoured by the Sea-Fowl, that wait to de<g ref="char:EOLhyphen"/>ſtroy them; e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch of
+theſe <hi>Tortoiſes</hi> lay about 140 Eggs at one time in about an hours
+ſpace; which are full as large as Hens Eggs, but with this difference that
+theſe are round, and covered only with a thick ſtrong Membrane or Skin, nor
+will their whites harden by heat, as the whites of Hens Eggs; their Yolks we
+be<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t in Calabaſhes, with ſome Salt, and fryed them with the fat of the
+<hi>Tortoiſe,</hi> like to Pancakes, in a piece of a earthen Jar found by the
+Sea-ſide, which we did eat inſtead of Bread.</p>
+            <p>I never ſaw any Creature ſo long a dying as theſe, for after
+we had cut their Throats, divided their Bodies, and cut their Fleſh into
+ſmall and minute parts, every part and portion would continue twitching and
+mo<g ref="char:EOLhyphen"/>ving it ſelf a long time: They have a three-fold Heart, ſaid to be the
+Heart of a Fowl, of a Beaſt, and of a Fiſh, which will ſtir and pant
+ſe<g ref="char:EOLhyphen"/>veral Hours after is it taken out of their Bodies.</p>
+            <p>Our continual feeding on theſe <hi>Tortoiſes,</hi> brought us
+to a violent looſe<g ref="char:EOLhyphen"/>neſs, which I ſpeedily ſtopt with an <hi>Opiatick
+Tincture;</hi> which I provided on another occaſion; for before we came from
+<hi>Barbadoes,</hi> I thought of a way
+<pb n="24" facs="tcp:99692:13"/>to deliver our ſelves out of our Enemies
+Hands, (in caſe we ſhould be taken) without ſhedding of Blood; and it was
+thus, I diſſolved a ſuf<g ref="char:EOLhyphen"/>ficient quantity of <hi>Opium</hi> in a Bottle of
+rich Cordial Water, which we car<g ref="char:EOLhyphen"/>ried with us in the Boat, intending to give it
+to thoſe Perſons that ſhould take us, which I ſuppoſed they would
+readily drink, and by that means would be overtaken with ſo profound a Sleep,
+that we ſhould have op<g ref="char:EOLhyphen"/>portunity ſufficient to make our eſcape from
+their.</p>
+            <p>We were obliged to go many Miles from the Well of freſh Water,
+to turn <hi>Turtle,</hi> and to fetch Salt from the <hi>Salenaes,</hi> which
+neceſſitated us to carry our. Water with us in a Cask over thoſe uneven
+Rocks, which ſoon wore out our Shoes, and compelled us to make our ſoft and
+tender Feet, unwillingly to ſalute thoſe hard and craggy Rocks, which was
+very irkſome to us at firſt, but time and neceſſity made it more
+familiar and eaſie, that at length the Bottoms of our Feet was hardened into
+ſuch a callous ſubſtance, that there was ſcarce any Rocks ſo hard but
+we could boldly trample them under our Feet.</p>
+            <p>When the ſeaſon of the <hi>Tortoiſes</hi> coming aſhore
+was expired, and we had gotten a conſiderable quantity of their Fleſh
+ſalted and dryed for our Winter ſtore, we ſet about building of Houſes
+to defend us from the ſtormy Weather, which we were ſhortly to expect,
+which we did ſo ar<g ref="char:EOLhyphen"/>tificially, and covered them ſo well with courſe
+Graſs that grew by the Sea ſide, that neither the violence of Winds, nor
+fierceneſs of Storms could eaſily injure or offend us. Our houſhold Goods
+conſiſted chiefly in two or three earthen Jarrs left us by the
+<hi>Privateers,</hi> ſome few Calebaſhes and Shels of Fiſh that we found
+by the Sea ſide: in our Houſes we form<g ref="char:EOLhyphen"/>ed little kind of Cabbins to
+repoſe our ſelves in, with as much eaſe as poſ<g ref="char:EOLhyphen"/>ſibly we could.</p>
+            <p>In theſe little Huts or Houſes we ſpent moſt of our time,
+ſometimes Reading or Writing, and at other times I went abroad with my
+<hi>Indian</hi> a Fiſhing, at which he was ſo dextrous, that with his Bow
+and Arrow he would ſhoot a ſmall Fiſh at a great diſtance; ſometimes
+we caught ſome Craw-Fiſh, which we broiled over the Coales, and for change
+of Diet we ſometime eat a ſort of Shell-Fiſh that live on the Rocks, and
+are like Snales, but much langer, called <hi>Wilks.</hi>
+            </p>
+            <p>And, as there is no Mountain ſo barren, on which their may not
+be found ſome Medicinal Plant, ſo neither was this Iſland ſo
+unfruitful, but it aforded us two <hi>Vegetable</hi> Productions of great
+ſervice unto us, the one we called <hi>Turks Heads,</hi> being of an Oral
+form, beſet on every ſide with
+<pb n="25" facs="tcp:99692:13"/>ſharp Prickles like a Hedge Hog, out of which
+there grow in the apper part a longiſh red and pleaſant Fruit, about the
+bigneſs of a ſmall Nut; in taſte reſembling a <hi>Strawberry;</hi> the
+other was much more ſervicable to us, called <hi>Curatoe,</hi> of an oval
+body or ſtump like the former, but out of this grew long thick Leaves,
+whoſe edges were prickly, and its juice ſo ex<g ref="char:EOLhyphen"/>ceeding ſharp and pungent,
+that it was not eaſily ſuffered on the bare Skin, with which we waſhed
+our Linnen as with Soap, for it would ſcour excellent well; through the
+Leaves is diſperſed long and thready Fibres, with which when we had
+ſeparated and dryed it in the Sun, we made very good Thread, and mended our
+Clothes therewith in Needles which we made of Bones; with the Leaves I made a
+moſt excellent Bal<g ref="char:EOLhyphen"/>lom for Wounds, by boyling them in the Fat of the
+<hi>Tortoiſes,</hi> which I brought to a ſit conſiſtency by adding Bees
+Wax thereunto. Thus much of its external uſe, its internal follows: After we
+had cut off the Leaves about three or four Inches diſtant from the Body, we
+digged a great Hole or Pit in the Sand, and heated it exceeding hot, and put
+the ſaid Body therein, covering it up in the hot Sand, where we permitted it
+to remain five or ſix days, in which time the juice that was before ſo
+extraordinary ſharp and corroſive, by this digeſtion became ſo
+ſtrangely changed, that it was extreamly ſweet and pleaſant, like the
+Syrup of baked Pears.</p>
+            <p>And after we had preſſed it forth, and fermented it with a
+propor<g ref="char:EOLhyphen"/>tionable quantity of Water, it became a moſt pleaſant and
+ſpirituous Li<g ref="char:EOLhyphen"/>quor to drink; the innermoſt part of the Body or ſtump we
+cut into ſlices, and eat it like Bread. At this Iſland there is an
+innumerable Com<g ref="char:EOLhyphen"/>pany of Sea-Fowl, that lay their Eggs in the Sand, over
+ſpreading at ſome places near twenty Yards, as near together as the Birds
+can well ſit to lay them; and when the young Ones are hatched, they run about
+in great Companies like Chickens a conſiderable time before they are able to
+fly, which often afforded us pleaſant diverſion to perſue and take them,
+which when we had skined, ſalted and dryed in the Sun, we could preſerve a
+long time, but they did eat extream Fiſhy, much like Red-Herrings.</p>
+            <p>We endeavoured to make a Pot to boil our <hi>Turtle</hi> in, by
+tempering the fineſt Sand with the Yolks of <hi>Turtles</hi> Eggs and Goats
+Hair, for we could find no Clay nor Earth in the whole Iſland, but could not
+poſſibly make them indure drying, ſo that we were forced to eat our
+<hi>Turtle</hi> roaſted by the Fire on wooden Spits.</p>
+            <p>There is a pleaſant <hi>fragrant Herb</hi> grows out of the Sand
+among the <hi>rooks</hi>
+               <pb n="26" facs="tcp:99692:14"/>which we called wild <hi>Sage,</hi> whoſe
+Leaves we ſmoaked inſtead of <hi>Tobacco,</hi> and for want of a Pipe I
+ſmoaked it in a <hi>Crab's</hi> Claw, of which there was plenty, but they
+were ſo poor we did not eat them.</p>
+            <p>There is alſo an Inſect, called a <hi>Soldier,</hi> having a
+Shell like a Snail; but ſome ſay this Shell is not proper to themſelves,
+for having weak and tender Bodies, they get poſſeſſion of theſe
+Shells to defend themſelves a<g ref="char:EOLhyphen"/>gainſt the injury of the Air, and attempts of
+other Creatures; as they grow bigger they ſhift their Shells, and get into
+larger, being common<g ref="char:EOLhyphen"/>ly thoſe of <hi>Peridwinkles;</hi> they have inſtead
+of a Foot a inſtrument like a <hi>Crabs</hi> Claw, wherewith they cloſe the
+entrance of their Shells, and there<g ref="char:EOLhyphen"/>by ſcoures their whole Bodies; when they
+are ſet near the Fire they pre<g ref="char:EOLhyphen"/>ſently forſake their quarters, and if it
+be preſented to them again, they go backwards; they commonly keep in great
+Companies about the Rocks near the Well of freſh Water, and when they intend
+to change their Lodgings, there ſometimes happens a ſerious ingagement,
+mana<g ref="char:EOLhyphen"/>ged with that claſping Inſtrument, till the ſtrongeſt by
+Conqueſt gets Poſſeſſion, which he carries about with him on his Back
+during his Pleaſure.</p>
+            <p>Another little Inſect is worthy to be mentioned, called
+<hi>Lizards,</hi> and were ſo familiar and friendly, that they would come
+boldly among us, and do us no harm; they have four begs, their Bodies are
+adorned with divers delightſome Colours; they feed on Flies, and for that
+reaſon was ſerviceable unto us in killing them, which they performed with
+great nimbleneſs and cunning, for they lay down where they ſuppoſe the
+Fly would come, putting their Heads into as many different poſtures as the
+Fly ſhifts places, and when they find their advantage they ſtart ſo
+di<g ref="char:EOLhyphen"/>rectly on their Prey with open Mouth, that they ſeldom miſs it; they are
+ſo very tame that when we were eating, they would come on our Meat and Hands
+to catch Flys.</p>
+            <p>After we had ſpent about three Moneths in this deſolate and
+diſcon<g ref="char:EOLhyphen"/>ſolate Iſland, we ſaw a Ship attended with a ſmall Sloop,
+ſteering to<g ref="char:EOLhyphen"/>wards the Shore, at which we were at once poſſeſt with
+Hopes and Fear, with Hopes that it was ſome <hi>Engliſh</hi> Veſſel, in
+which we might probably get a paſſage thence, and with fear leſt it
+ſhould be a <hi>Spaniard,</hi> who doubtleſs would make us Priſoners if
+they could take us, ſuppoſing that we were <hi>Privateers.</hi>
+            </p>
+            <p>The four <hi>Privateers</hi> that remained with us all this time
+drew near the Sea ſide, where the Ship was at an Anchor; and after they had
+diſcove<g ref="char:EOLhyphen"/>red them to be <hi>Privateers,</hi> made ſigns to them to ſend
+their Boat aſhore,
+<pb n="27" facs="tcp:99692:14"/>which accordingly they did; and after they had
+carried them on Board the Captain of the Man of War ſent up the Sloop to that
+part of the Iſland where I and my Companions were, and when they came
+aſhore unto us, enquired which was the Doctor; my Companions informed them it
+was I, one of them, therefore addreſt himſelf perticularly to me,
+<hi>Deſiring me in the Name, and on the behalf of their Captain, to go with
+them on Board the Man of War, where I ſhould be kindly entertained, and have
+li<g ref="char:EOLhyphen"/>berty to come aſhore when I pleaſe.</hi> I readily imbraced his kind
+Invitation, but could not procure liberty for any of my Companions to go with
+me. When we came to the Man of War, I was very honourably handed up the ſide,
+the Trumpets in the mean time ſounding, and very kindly re<g ref="char:EOLhyphen"/>ceived and
+well-com'd aboard by the Captain and Doctor, who invited me aft into the great
+Cabbin, where I was not only feaſted with Wine and choice Proviſion, but
+had given me by the Doctor a pair of Silk Stockings, a pair of Shoes, and a
+great deal of Linnen-Cloth to make me Shirts, <hi>&amp;c.</hi> And after a long
+diſcourſe concerning the Affairs of <hi>England,</hi> more per<g ref="char:EOLhyphen"/>ticularly of
+the progreſs and defeat of the late Duke of <hi>Monmouth,</hi> which they
+ſeemed to deplore; I addreſs'd my ſelf to the Captain in the behalf of my
+ſelf and Companions, humbling intreating him to permit us to go with them
+either to that Port to which they were bound, or otherwiſe to put us on board
+ſome <hi>Engliſh</hi> Ship that they ſhould accidently meet withal: For I
+underſtood by their Diſcourſe that they had taken a rich Prize, and was
+bound directly for a Port to ſpend their Money (as they uſually do) ſo
+that I apprehended no danger in going with them. But the Captain not being able
+to take us aboard without the conſent of the Company, having but two Votes,
+and as many ſhares in the Ship and Cargo; the Company were called together,
+and after ſome Debates they voted that they would take me with them, but none
+of my Companions. How<g ref="char:EOLhyphen"/>ever, they were ſo kind that they ſent them a Cask of
+Wine, and ſome Bread and Cheeſe, a Gammon of Bacon, and ſome
+Linnen-Cloth, Thread and Needles to make them Shirts, <hi>&amp;c.</hi> and the
+next day permitted them to come on board, and entertained them very
+courtiouſly.</p>
+            <p>In about two dayes time we ſit Sail, leaving my Companions on
+the Iſland, not a little grieved at my departure, and ſtood away to the
+<hi>Nothward,</hi> with a deſign to go to <hi>Illa Terra;</hi> from which at
+preſent I ſhall digreſs to give an account what became of thoſe
+<hi>Privateers</hi> that left us, who were the occaſion of my being delivered
+from this place. The next day after they went from us they arrived at the main
+Continent,
+<pb n="28" facs="tcp:99692:15"/>where they halled up their Periagoes, and
+ſtayed there about a Fort<g ref="char:EOLhyphen"/>night, waiting to ſeiſe ſome
+<hi>Spaniſh</hi> Veſſel that might come that way, which they deſigned
+if poſſible ſpeedily to board before the <hi>Spaniards</hi> could get
+themſelves in a poſture of defence; but not meeting here with any Prize,
+went to Windward, where they took a Canow loaden with Pork, and meeting with
+ſome <hi>Engliſh</hi> Veſſel at one of the Windward Iſſands, they
+parted Companies, ſome went for <hi>Carolina,</hi> and the others went in a
+ſmall Sloop to <hi>Blanco,</hi> where they met with a Man of War, a
+<hi>Piivatcer,</hi> that had taken a <hi>Fortugees,</hi> a great Ship, called
+the <hi>Grand Gu<g ref="char:EOLhyphen"/>ſtaphus,</hi> loaden with Wine and Linnen-Cloth,
+<hi>&amp;c.</hi> When they had ſhared her Cargo, they parted Companies, the
+<hi>French</hi> with their ſhares went for <hi>Petty Gnavers</hi> in the
+<hi>Grand Guſtaphus,</hi> and the <hi>Engliſh</hi> being informed by
+thoſe other <hi>Privatiers</hi> of our being on <hi>Saltatidos,</hi> came
+thither with their Man of War, and took me off, as is before expreſt.</p>
+            <p>In about five or ſix days after we left <hi>Saltatudos,</hi> we
+made <hi>Porto Rito,</hi> and our Veſſel being ſo extream leaky, ſome
+of the Company were for putting into <hi>Mena,</hi> but the reſt not
+conſenting, we ſteered betwixt <hi>Porto Rico</hi> and
+<hi>Hiſpaniola,</hi> and ſo to the Eaſtward of the <hi>Abroletaes</hi> or
+<hi>Han<g ref="char:EOLhyphen"/>kerchers,</hi> where there were divers Veſſels on the Wrack diving
+for Plate; but we ſtopt not here, but continued our Courſe to the
+Northward, un<g ref="char:EOLhyphen"/>til we came into the Latitude of <hi>Illa Terra,</hi> and then
+ſteered away <hi>Weſt</hi> for the Iſland, and as we were running down we
+ſaw a Ketch, to which we gave Chaſe, and in a few Hours came up with her,
+who told us, <hi>that they came from</hi> New York, <hi>and was bound for
+Providence;</hi> as ſoon as the <hi>Privateers</hi> underſtood that
+<hi>Providence</hi> was inhabitated again, they altered their Reſolutions,
+and deſigned to go with them to that place, and accordingly kept them
+company; the Night following we met with bad Weather, and was like to run
+aſhore on <hi>Illa Terra,</hi> through the care<g ref="char:EOLhyphen"/>leſneſs of our Pilot, had
+not a Perſon from the Quarter-Deck, that was more watchful then the reſt,
+eſpied the Land juſt before us; but this was not all, for after we had
+tacked about, and was lying by with the Heads of both Veſſels off aſhore,
+the men on board the Ketch were ſo drunk with the Wine the
+<hi>Privateers</hi> had given them, that they ſuffered their Ketch to drive
+aboard us, and with the violence of the blow ſhe gave us broke down our
+<hi>Cat-head,</hi> and had we not by a perticular Providence got free from her,
+we had both unavoidably ſunk down in the Sea, for our Veſſel was ſo
+extreamly leaky before, that at the ſame time ſhe had three Foot of Water
+in her Ho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d; and our Pumps being both out of
+<pb n="29" facs="tcp:99692:15"/>order, we were forced to convey it out with
+Tubs. The next day we ſteered into <hi>Providence,</hi> and came to Anchor,
+under the command of a ſmall <hi>Stochadoe</hi> Fort, built by the new
+Inhabitants, who had not been here above 8 Moneths, but had ſo well improved
+their time, that they had built a Town by the Sea ſide, and elected a
+Governour from among themſelves, who with the conſent of twelve more of the
+chief men of the Iſland made, and enacted divers Laws for the good of their
+little Common-wealth, being as yet under the protection of no Prince.</p>
+            <p>The <hi>Privateers</hi> found here a kind Reception by the
+Inhabitants, and after they had gotten their Goods aſhore, they ran their
+Ship a Ground, and burnt her, giving their Guns to the Inhabitants to fortifie
+the Iſland, deſigning to divide themſelves into ſmall Members, and to
+go thence to ſome other place where they might ſell their Goods, and betake
+them<g ref="char:EOLhyphen"/>ſelves to honeſt courſe of Life. The Governour of this Iſland was
+a very ſober man, an <hi>Independent,</hi> and uſually preached to the
+Inhabitants every firſt day of the Week, at which time he cauſed a Gun to
+be fired for a ſignal, to give notice to the People when he was going to
+begin. Whilſt I remained here, the <hi>Privateers</hi> had two falſe
+Alarms, ſuppoſing the <hi>Spa<g ref="char:EOLhyphen"/>niards</hi> were come again to
+diſpoſſeſs them of the Iſland; for this being formerly a Harbour for
+<hi>Privateers,</hi> and a Neſt of Robers, the <hi>Spaniards</hi> on a time,
+when moſt of the men were on the old Wrack, pillaged and burnt their Town,
+and carried away, as it was reported, thirty thouſand Pound in Plate and
+Money, and took ſome of the Inhabitants Priſoners, the others fled to
+<hi>Illa Terra,</hi> where they remained till this Iſland was re<g ref="char:EOLhyphen"/>ſetteld by
+thoſe new Inhabitants that came from <hi>Jamaica,</hi> and other parts. The
+Iſland it ſelf is very fruitful, and if the report of the Inhabitants be
+true, the quickeſt in production of any I ever heard or read of; there is
+plenty of wild Hogs in the Woods, which the Inhabitants often kill, and good
+ſtore of <hi>wild Grapes,</hi> with which they make good Wine, and divers
+ſorts of Fruits, as <hi>Oranges, Lemons, Limes, Guavers,</hi> &amp;c. Alſo
+medicinal Herbs, as <hi>Tea Radix, Contra Yerva, Jeſuits Bark,</hi> &amp;c.
+Of eatable Roots, there is <hi>Partatoes, Yams</hi> and <hi>Edders,</hi>
+&amp;c.</p>
+            <p>The Ketch with whom we came in company to this Iſland, ſold
+part of their Bread and Flower to the <hi>Privateers</hi> for Linnen Cloth, and
+ſome they ſold to the Inhabitants: And in about a Fortnights time they
+ſet Sail for <hi>Carolina,</hi> and I with them; but as we were falling down
+amongſt the <hi>Bohemia</hi> Iſlands, towards the <hi>Gulf of Florida,</hi>
+we were like to be caſt away on the Rocks and Shoals that lay in our way, but
+through mercy we
+<pb n="30" facs="tcp:99692:16"/>got clear. When we came on the Coaſt of
+<hi>Carolina,</hi> we met with blow<g ref="char:EOLhyphen"/>ing Weather, and by the miſtake of our
+Captain fell in to the <hi>Southward,</hi> where we came to an Anchor, but the
+Wind was ſo high, that in weigh<g ref="char:EOLhyphen"/>ing of him our Cable broke: The next day we
+came to an Anchor again juſt before the Bar of <hi>Carolina,</hi> for our
+Captain was afraid to go in with his Veſſel, for fear they would ſeiſe
+him, becauſe he had been dealing with the <hi>Privateers,</hi> and for that
+reaſon he only ſent in his Boat to get ſome freſh Proviſion, and to
+put on Shore a Paſſenger that came with us; and becauſe I found no
+Veſſel here bound directly for <hi>England,</hi> I reſolved to go with
+them for <hi>New-York:</hi> And here alſo we had the Misfortune to loſe our
+other Anchor, inſomuch that when we came to <hi>Sandy-Hook,</hi> we were
+forced to ride our Veſſel by two of her Guns, which we had ſlung for that
+purpoſe, until our Boat had got us a ſmall Anchor from on board ſome
+other Veſſel. The next day we went up to <hi>New York,</hi> where, as I was
+walking one Morning on the Bridge, I accidently met with a Perſon I knew,
+that came lately from <hi>Barbadoes;</hi> at firſt I was ſurprized, but
+having Confidence that he would not diſcover me, I went to him, and deſired
+his company to ſome Houſe, where we might privately diſcourſe together:
+He was glad to ſee me ſafe there, and accordingly to my de<g ref="char:EOLhyphen"/>ſire he went
+with me to a Houſe hard by, where I gave him an account of my Adventures, and
+what had happened to me ſince I left <hi>Barbadoes;</hi> and he in requital
+gave me an Account of the different Reſentments Peo<g ref="char:EOLhyphen"/>ple had of our departure,
+and how that after we were gone our Maſters had hired a Sloop to ſend after
+us; but thinking it in vain, they did not perſue us; however, they ſent our
+Names, and the de<g ref="char:EOLhyphen"/>ſcription of our Perſons to the leward Iſlands, that
+ſo if any of us came thither, we might be taken Priſoners and ſent up
+again: At one time it was reported, that we had gotten aboard a <hi>Dutch</hi>
+Veſſel, and was bound for <hi>Holland:</hi> at another time that we were
+taken Priſoners at St <hi>Chriſtophers,</hi> and to be ſent back in
+Chains, which made our Maſters rejoyce, and inſultingly to boaſt of the
+ſevere Puniſhments they would inflict upon us; and was reſolved, as they
+ſaid, that I ſhould be hanged for an Example to others, becauſe I was the
+chief contriver and manager of our eſcape: But theſe Hopes and
+Inſulſtings of theirs were ſoon over, for when at length they could hear
+no true account of us, they concluded that we periſhed in the Sea. I had not
+been long at <hi>New-York</hi> before I got paſſage in a Veſſel bound
+for <hi>Amſterdam,</hi> and in order thereunto took out a Ticket from the
+Secrataries Office by another Name; and in about five Weeks time we arrived at
+<hi>Cows,</hi> on the <hi>Iſle of Weight,</hi> where this
+<pb n="31" facs="tcp:99692:16"/>Veſſel ſtopt to clear; and as ſoon as I
+had got my Cheſt, <hi>&amp;c.</hi> aſhore, I embarqued for
+<hi>Southampton,</hi> where I left my Cheſt at a Friends Houſe, and
+returned in a diſguiſe to my Relations, who before this time (un<g ref="char:EOLhyphen"/>known to
+me) had procured my Pardon, and joyfully received me as one riſen from the
+Dead; for having received no account from me ſince I left <hi>Barbadoes,</hi>
+they did almoſt deſpair of ever ſeeing me any more.</p>
+            <p>
+               <hi>NOw unto the Eternal and True God, the ſacred Foun<g ref="char:EOLhyphen"/>tain of
+all Mercies, that have been with me in all Dangers and times of Tryal, who
+miraculouſly preſerved me on the deep Waters, and according to the
+multitude of his Mercies delivered me, when appointed to dye, unto him do I
+with ſincere Gratitude dedicate the remainder of my dayes, Humbly imploring
+that the Angel of his preſence may always attend me, and the Remembrance of
+his repeated Favours more and more engaged my Heart to ſerve him, that in
+Te<g ref="char:EOLhyphen"/>ſtimony of my abundant Thankfulneſs, I may return to him a perpetual
+Sacrifice of Praiſe and Thanksgiving, henceſorth and forever.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>From my Lodging at the Sign of the</hi> Ship,
+<hi>in St</hi> Paul'<hi>s Church-Yard;</hi>
+                  <date>London, June <hi>the 10th, 1689.</hi>
+                  </date>
+               </dateline>
+               <signed>Henry Pitman.</signed>
+            </closer>
+         </div>
+         <div type="part">
+            <pb n="32" facs="tcp:99692:17"/>
+            <head>An Account of the Adventures of my Compa<g ref="char:EOLhyphen"/>nions ſince I left
+them on <hi>Saltatudos,</hi> com<g ref="char:EOLhyphen"/>municated to me by <hi>John Whicker</hi>
+ſince his arrival in <hi>England.</hi>
+            </head>
+            <opener>
+               <salute>Dear Doctor,</salute>
+            </opener>
+            <p>in anſwer to your Requeſt I have given you the fol<g ref="char:EOLhyphen"/>lowing Account;</p>
+            <p>ABout a Fortnight after you left us on <hi>Saltatudos,</hi> two of
+our Com<g ref="char:EOLhyphen"/>panions, <hi>John Nuthall</hi> and <hi>Thomas Waker</hi> having made
+Sails of the Cloth the <hi>Privateers</hi> left us, and fitted, the
+<hi>Spaniſh</hi> Boat for the Sea, went from us, deſigning for
+<hi>Quiraſoe;</hi> but the Boat being ſo large and unruly, and they ſo
+unskilful in Navigation, that I fear they either periſhed in the Sea, or was
+driven aſhore on the Main amongſt the cruel <hi>Spaniards;</hi> for we
+never heard of them ſince.</p>
+            <p>The next day after they departed from us, arrived here a ſmall
+<hi>Pri<g ref="char:EOLhyphen"/>vateer</hi> Boat of about four Tuns, in which were eight
+<hi>Engliſh</hi> men and a <hi>Negro,</hi> that formerly belonged to the Ship
+in which you embarqued, but that they left her, and went aſhore upon a
+Iſland, called <hi>Fernando,</hi> which lies to the Southward upon the
+Coaſt of <hi>Brazil.</hi> Their reaſon for leaving their Ship was this;
+Having been out of <hi>Carolina</hi> about an Year and Half, and had made
+nothing of a Voyage conſiderable, reſolved for the South Seas coming to the
+Streights of <hi>Magdaleen,</hi> met with very bad Weather, which forced them
+to put back again, and reſolved to turn <hi>Pirates;</hi> but theſe eight
+men being averſe to the reſt of their Com<g ref="char:EOLhyphen"/>panions deſign, went aſhore
+upon the Iſland aforeſaid, carrying with them what they had on board,
+intending to go from thence in a ſmall Boat, which was given them by the
+Ship's Crew, with ſome Rigging, and other neceſſaries, which they
+deſigning to build upon, and raiſe her higher in caſe of bad Weather,
+having in their Company two Carpen<g ref="char:EOLhyphen"/>ters and a Joyner; taking their leaves of
+each other, the Ship put to Sea, next Morning ſaw a Sail at a conſiderable
+diſtance, but making the
+<pb n="33" facs="tcp:99692:17"/>beſt of their way, ſoon came up with her,
+and finding her to be a <hi>Portu<g ref="char:EOLhyphen"/>geizs,</hi> they laid her aboard, and took
+her with very little reſiſtance, although ſhe was a bigger Ship, and had
+more men then the <hi>Privateers;</hi> having made her their prize, brought her
+away to the ſame Iſland, on which were their Companions, and turned the
+Priſoners aſhore among them, giving them a Boat and Oars: But this cauſed
+no ſmall trouble among the <hi>Eng<g ref="char:EOLhyphen"/>liſh,</hi> who were then Inhabiters with
+them; but being well armed, they kept them at a diſtance from their
+appartment all that day; but the next Night the <hi>Spaniards</hi> ran away,
+carrying with them their own Boat, and the <hi>Engliſh</hi> mens too; then
+were they in a bad condition, not having a Ship nor <hi>boat</hi> with which
+they could convey themſelves from that <hi>deſolate Iſland</hi> then were
+they conſtrained to cut &amp; fall a ſort of Trees, called
+<hi>Mangroves,</hi> and in the beſt manner they could, ſawed out Boards,
+Planks, and other Timbers ſit for their uſe, and began to build a new Boat
+from the Keel, and in ſix Weeks, or thereabouts, finiſht her, being in
+burthen as they judg'd four Tuns; no one being idle, but imploying
+themſelves, ſome about their new Veſſel, while others (by turn)
+travelled the Iſland to ſhoot Proviſion, which was a ſort of Birds,
+call'd <hi>Bookes,</hi> ſomething re<g ref="char:EOLhyphen"/>ſembling our <hi>Engliſh</hi>
+Sea-Gulls, or <hi>Pyes,</hi> (but bigger.) This Iſland affords a fort of very
+large and pleaſant Figgs, which they alſo fed on ſometimes.) There are a
+great many wild Dogs, very large and fat, which eat very little or nothing but
+Figs. Likewiſe in the day time there comes aſhore <hi>Sea-Lyons,</hi> which
+will ſit by the Water-ſide, and make a hideous roaring; they are hairy
+about their Head and Neck, much like our Land Lyons; their Paws very lage, with
+a Skin like the Foot of a Swan, which ſerves them to ſwim withal; they are
+very fearful and ti<g ref="char:EOLhyphen"/>merous, not ſuffering a man to come nigh them, but
+preſently makes to the Sea; they live under Water as well as above. Having
+lancht and rig<g ref="char:EOLhyphen"/>ged their Boat, they put on board their Proviſion, which was
+only a ſmall Cask of Peaſe that was given them by the Ship, which they kept
+by them for their Sea ſtore. Having Water and all things aboard, took their
+departure from <hi>Ferdinando,</hi> aforeſaid, committing themſelves to the
+protection of Almighty God, and the mercies of the Seas, directing their
+Courſe for <hi>Tabago:</hi> But miſſing it, the Pilot ordered to bear up
+the Helm for <hi>Saltatudos,</hi> at which place they arriv'd, but almoſt
+<hi>famiſh'd</hi> (for they had neither Peaſe nor Water for the ſpace of
+five or ſix days before. Having lain ſome dayes at the <hi>Eaſt</hi> end
+of the Iſland unknown to us, and being in great want of Proviſion,
+reſolved to travel the Iſland to ſee if they
+<pb n="34" facs="tcp:99692:18"/>could find out any Food, by chance they found
+ſome ſalt <hi>Turtle,</hi> which we had laid upon a Tree, and covered it
+over with a Callapatch, to ſe<g ref="char:EOLhyphen"/>cure it from the Weather.</p>
+            <p>Three of theſe men being very ill principled and looſe kind of
+Fellows, waiting their opportunity when three of their Companions were abroad,
+went aboard and fetcht their Arms, then came aſhore to their Hut, where the
+other two were, and preſented a Piſtol to each of their Breaſts, and
+ſwore if they would not carry every thing aboard they were dead men. The two
+men being ſurprized, and not able to make any reſiſtance, the three
+having all the Arms in their Cuſtody, were forced to comply, and carry all
+aboard. Which done, they charged them that <hi>if they did not acquaint them
+when the other came home, they would make them Ex<g ref="char:EOLhyphen"/>amples.</hi> They promiſed
+very fair, having done this, they went aboard, wait<g ref="char:EOLhyphen"/>ing for their coming home.
+In the Evening the other three men came to their Hut, not miſtruſting what
+had happened, but finding the Hut riſted, and every thing gone, enquired the
+meaning of it, which having under<g ref="char:EOLhyphen"/>ſtood, bethought what to do; to tarry they
+were afraid; to go they could not tell where; for they had travelled all Day,
+and could not find a drop of freſh Water, neither was there any at the Hut,
+for the other had car<g ref="char:EOLhyphen"/>ried all aboard, being very faint one was reſolved to
+hail the Boat, and beg a little; the other kept cloſe to hear how he would
+fare, who having hailed them, they made anſwer he ſhould have ſome: So
+coming aſhore laid hold on him, and tyed his Hands behind him, and left him
+in Cuſtody with one of them while they went to look for the reſt: The
+reaſon why they endeavoured to take them, was becauſe they had hid their
+Mo<g ref="char:EOLhyphen"/>nies in the Sand, and did not keep it in their Cheſts; but in the mean
+time while they were looking for the other, the Priſoner by means of a Knife
+he had in his Pocket, cut looſe the Line with which his Hands were tyed, and
+made his eſcape: Being thus exiled from his Companions bethought himſelf of
+ranging the Iſland to look for men; for the <hi>Turtle</hi> which they found
+came afreſh into his Memory: all this time he had no Victuals, nor a drop of
+Watter, but was conſtrained to drink his own, being ſo exceſſive hot,
+at length having travelled about the Iſland till almoſt ready to faint, he
+came near our Huts, and ſeeing us dreſſing of <hi>Turtle</hi> with
+nothing on, only a pair of Drawers, the man made a ſtand, thinking we had
+been <hi>Iudians,</hi> for we were tan'd with the Sun as yellow almoſt as
+them; at length advanced, and enquired if we were <hi>Engliſh</hi> men: We
+told him we were; then he begg'd for a little Water, which
+<pb n="35" facs="tcp:99692:18"/>we gave him, and ſome of our
+<hi>Turtle<g ref="char:punc">▪</g>
+               </hi> And after ſome Conference, he told us his condition,
+and deſired us to help him to regain what was ſo un<g ref="char:EOLhyphen"/>gratefully taken from
+him and his fellow-ſufferers, by their own Country<g ref="char:EOLhyphen"/>men and Boats Crew, which
+we readily agreed to; and when we had ſixt our Arms, we travelled all Night
+till we came where the Boat lay, which was about ſix or ſeven Miles from
+that place. When we came near the place, we hid our ſelves in the Buſhes by
+the Sea ſide, waiting their coming aſhore next Morning, which they
+uſually did as we were informed. Morning being come, two of them came
+aſhore, and the <hi>Negro</hi> ſlave bearing a Veſſel to fetch Water,
+and they with their Arms, leaving one aboard with about twelve pieces by him
+ready loaden; when they were come on ſhore, we appeared with our Arms ready
+cockt, encloſed them, and took them Priſoners; then we brought them to the
+Water-ſide, and ſhewed the other aboard what we had done, command<g ref="char:EOLhyphen"/>ed him
+not to Fire, but to jump over board, and ſwim aſhore to us, which he
+immediately did: So taking them all Priſoners, we put them aſhore, leaving
+them ſome of our Proviſion; the reſt we put aboard in order to
+proſecute our Voyage for <hi>New-England.</hi> So victualling and watering
+our ſmall Frigot in the beſt manner we could we left them upon the
+Iſland, and the 24th of <hi>Auguſt</hi> took our Departure from
+<hi>Saltatudos,</hi> and in about ſix dayes time made the Iſland of
+<hi>Porto Rico,</hi> but our Pilot not being very well acquainted with that
+Country, ſuppoſed it to be the high Land of St <hi>Domingo</hi> upon
+<hi>Hiſpaniola,</hi> &amp; therefore ordered to bear up the Helm, &amp;
+ſtand away to the <hi>Weſtward</hi> before the Wind: the next day we could
+ſee no Land, which cauſed no ſmall trouble amongſt us, being dubious
+where we were. Towards the Evening we made the <hi>Eaſt</hi> end of
+<hi>Hiſpaniola:</hi> then our Pilot ſaw his error, that we had loſt our
+paſſage between the two Iſlands, <hi>Hiſpaniola</hi> and
+<hi>Portarico,</hi> before-mentioned, we were ſailing down the <hi>South</hi>
+ſide of <hi>Hiſpaniola</hi> about nine dayes; having ſometimes very
+little Wind, at other times <hi>Turnadoes,</hi> that we could not carry Sail.
+Our Water being all ſpent, we were forced ſome to drink their own Water,
+others to drink ſalt Water taken up by the ſide. Running along cloſe
+aboard ſhore, we eſpied three men running with all the haſte that
+poſſibly they could, till they came to a Canow which lay at the Mouth of a
+Creek, which immediately they rowed up into the Country among the Woods, we
+imagining they were afraid of us, ſuppoſing us to be <hi>Spaniards,</hi>
+then we came to an Anchor, and my ſelf with one more, (a Carpenter) ſwim'd
+aſhore, but with a great deal of diſſiculty, for the Rocks lying ſo far
+off the ſhore, had like to have daſht out our Brains:
+<pb n="36" facs="tcp:99692:19"/>Coming aſhore we ſwom up the Creek, but the
+Tyde being ſo ſtrong againſt us, we were forced to return back again;
+neither finding the men, nor hopes of getting freſh Water, therefore we
+ſwom aboard again. Weighing our Anchor, we ſteered within the Iſle of
+<hi>Aſh,</hi> which lies almoſt to the <hi>Weſt</hi> end of
+<hi>Hiſpaniola,</hi> our Pilot looking over his Wag<g ref="char:EOLhyphen"/>goner, found that within
+this Iſland was a freſh Water Creek, into which we deſigned to run, but
+through miſtake run about two Leagues up into a wrong Creek, where we could
+find no freſh Water, that with drinking ſalt Water our Mouthes were
+almoſt grown together, and hardly able to ſpeak; but God Almighty was
+pleaſed to ſend us a very great ſhower of Rain, which laſted ſo long,
+that by means of a Sheet held up by the four Corners, with a weight in it, we
+caught about two Gallons of Water. So loaring our Sails we haled up the Creek
+into the Woods, and went aſhore, and concluded to dig a Well; when we had
+digged about four or ſix Foot deep, we found freſh Water to our great
+Comfort and Satisfaction; lying aſhore all Night to take up the Water as it
+ſprung, we were almoſt ſtung to death with a ſort of Flys, called
+<hi>Muſquetoes</hi> and <hi>Merrywings,</hi> which draw'd Bliſters and
+Bladders in our Skin; that we lookt as if we had had the <hi>Small Pox,</hi>
+which was very tedious for our Bodies to endure. By next Morning we had got
+about forty Gallons of Water aboard, with which we put to Sea again; but we had
+not been at Sea above three Hours, before we ſaw a Sail within the
+<hi>Weſt</hi> end of the Iſle of <hi>Aſh,</hi> before-mentioned; we bore
+up our Helm, and ſtood away for her; In a ſhort time we ſaw her come to
+an Anchor: ſuppoſing her to be a <hi>Jamaica</hi> Sloop, for ſhe had our
+Kings Jack &amp; Antient out: We hailed them, whoſe anſwer was (from
+<hi>Jamaica</hi>) ſo coming to Anchor by their ſide, they laid us aboard
+with two Canows, full of <hi>Spaniards,</hi> all armed as Pirates, and carried
+us aboard their Sloop; ſtript us naked, and put us down in their Hold, having
+nothing to lay our naked Bodies upon only their Ballaſt Stones, or a top of
+their Water Cask; the Proviſion they allowed us was courſe and ſhort,
+about hal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a Pint of <hi>Indian</hi> Corn a day for a man for nine dayes
+together.</p>
+            <p>The place where they carried us, is called St <hi>Jago,</hi> a
+<hi>Spaniſh</hi> Town upon <hi>Cuba,</hi> we remaind in this condition above
+ſix Moneths; when they went to Sea, we were carried as their Slaves, (to pump
+Ship) waſh their Clothes, and beat Corn in great wooden Morters, and
+<hi>Negroes</hi> with naked Swords, always ſtanding by as Overſeers, that
+our Hands have been bladdered and ſo ſore, that we could hardly hold any
+thing:
+<pb n="37" facs="tcp:99692:19"/>When at home, our buſineſs was to row the
+Canow up two Leagues in the Country (full of Jars to fetch Water) which we were
+forced to carry upon our naked Backs a great way to fill them; ſometimes into
+the Woods to cut Wood, bare-footed and bare-leged, neither Shirts to our Backs,
+nor Hat to our Heads, but only a Rag ſufficient to cover our Nakedneſs. Our
+Proviſion, as I told you before, was <hi>Indian</hi> Corn boiled in Water,
+but a larger ſhare than at firſt.</p>
+            <p>About the latter end of <hi>October</hi> we were divided, my
+ſelf with three more were put on board a ſmall Barque, the reſt of my
+Companions re<g ref="char:EOLhyphen"/>mained aboard the Sloop, both Veſſels being bound down to
+leward of <hi>Cape Cruſe,</hi> having information of a <hi>Dutch</hi> Trader
+that lay there before a ſmall, Town, called <hi>Byan;</hi> in which Voyage we
+were taken all very ſick in the <hi>Ague,</hi> as well <hi>Spaniards</hi> as
+<hi>Engliſh,</hi> which reduced us to a deplorable condition, having nothing
+to yield us any comfort. In this diſtemper dyed one of our Companions<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Jeremiah Atkins</hi> of <hi>Taunton</hi> during his Sickneſs, they were
+very cruel to him, not ſuffering us to carry him down into the Hold, but made
+him lie Day and Night upon the Deck; all we could do for him, was to cover him
+with the bark of a Cabbage-Tree, to keep the Sun from him by Day, and the Dew
+by Night: In this languiſhing condition he lay about a Week, and then dyed;
+when dead, they threw him over board, letting him float a Stern, without
+uſing any means to ſink him, as is uſual. Returning back again for St.
+<hi>Jago,</hi> without their expected Prize, off of <hi>Cape Cruſe,</hi> my
+ſelf and one more of our Companions was taken again from on Board the Barque,
+and put aboard the Sloop, and two other of our <hi>Engliſh</hi> were put
+aboard the Barque, who took their departure from us at <hi>Cape Cruſe</hi>
+aforeſaid, bound for <hi>Carthagena,</hi> a <hi>Spaniſh</hi> Town upon the
+main Continent. In five dayes we arrived at our Port of St <hi>Jago,</hi> where
+we lay about a Moneth, and having kreen'd our Sloop, put to Sea again; bound
+for the <hi>North</hi> ſide of <hi>Hiſpaniola</hi> to take
+<hi>French-men.</hi> Turning up to Windward of <hi>Cuba,</hi> we met with a
+<hi>Jamaica</hi> Sloop bound for the Wrack, the <hi>Spaniard</hi> commanded him
+to hoiſt out his Canow, and come aboard; which he refuſing, went his way,
+having weathered <hi>Cape Myeeze,</hi> which is the <hi>Eaſtward</hi> point
+of <hi>Cuba;</hi> we ſtood along ſhore bound for a ſmall Town, call'd
+<hi>Barracco,</hi> where in two dayes we arrived: we lay there till the latter
+end of <hi>October,</hi> at which place our Sloop drove aſhore, and ſtruck
+off about fourteen Foot of her falſe Keel; but after a great deal of trouble
+got her off again; at this place they got two Hogs, and a quantity of
+<hi>Plantins,</hi> a ſort of Food
+<pb n="38" facs="tcp:99692:20"/>that grows upon Trees; they are made uſe of
+inſtead of Bread among the Inhabitants in the <hi>Weſt-Indies.</hi> We then
+proceeded in our Voyage for <hi>Hiſpaniola,</hi> and fell in with a place,
+called the <hi>Mould,</hi> off which place we ſaw two Sail, an
+<hi>Engliſh</hi> Veſſel that came from <hi>Jamaica,</hi> bound for
+<hi>New-York,</hi> and a <hi>French</hi> Sloop bound for <hi>Pettygwavers,</hi>
+a <hi>French</hi> Town to leward on the <hi>North</hi> ſide of the ſaid
+<hi>Hiſpaniola;</hi> having a freſh Gale we came up with the
+<hi>Engliſh</hi> man, brought him by the Lee, com<g ref="char:EOLhyphen"/>manded the Captain aboard,
+with four of his men, and put twelve <hi>Spaniards</hi> aboard his Ship. Then
+chaſing the <hi>French-man,</hi> came up with him about an hour after Night:
+the <hi>French-man</hi> ſtood it out and fought us, making a ſtout
+Reſiſtance, although they had not above ſeven or eight men, and in the
+<hi>Spaniards</hi>
+               <g ref="char:punc">▪</g> were thirty five Men, eight Guns, ſix Patterreroes,
+and every man his ſmall Arms: The <hi>French</hi> making ſuch a bold
+Reſiſtance kept them off, till ſuch time as they had an opportunity, to
+run their Sloop a Ground in the <hi>Mould,</hi> in the dark, by which means
+they ſaved their <hi>lives,</hi> otherwiſe they had been all dead men, as
+the <hi>Spaniards</hi> ſwore if they took them: In the next Morning we run
+into the <hi>Mould,</hi> and brought out their Sloop, and put about ten Men
+aboard, bringing both Prizes away for St. <hi>Jago.</hi> From the
+<hi>Engliſh</hi> Captain they took 900 <abbr>
+                  <hi>l.</hi>
+               </abbr> in Money, and
+plundred him of all he had, ſave the ſuite of Clothes that he wore, and
+waited the Governours motion to make a Prize of the Ship, which would have been
+done, had not the <hi>Spaniſh</hi> Governour received advice of the Duke of
+<hi>Albermales</hi> arrival at <hi>Jamaica;</hi> upon which news the Governour
+paid the <hi>Engliſh</hi> Captain 600 <abbr>
+                  <hi>l.</hi>
+               </abbr> of his Money
+back again, and ſent him away to <hi>Jamaica,</hi> and all the
+<hi>Engliſh</hi> Priſoners, that would go with him were free by his
+conſent. By this time arrived the Barque, in which was the other three of our
+Companions, who were very glad to hear of our and their Redemption, we
+embarqued once again Free-men together, by God's Grace bound for
+<hi>Jamaica,</hi> where we ſafely arrived about the latter end of
+<hi>March:</hi> So ſeperating our ſelves we endeavoured in the beſt
+manner we could to get paſſage for <hi>England</hi> our native Country,
+deſiring God Almighty to deliver us, and all our dear Country-men
+<hi>Proteſtants,</hi> from the barbarous Cruelty of the <hi>Spaniards</hi>
+and <hi>Papiſts.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="advert">
+            <pb facs="tcp:99692:20"/>
+            <head>Advertiſements.</head>
+            <div type="part">
+               <head>The Quinteſſence or Powers of <hi>Scurvey-Graſs,</hi>
+both Plain and Purging.</head>
+               <p>BEing endued with the lively Colour, Taſte and Smell of the
+<hi>Herb,</hi> containing its eſſential Virtues and Qualities, and is much
+to be preferred before the <hi>Spirit</hi> commonly ſold, in all caſes
+wherein that is recommended, as in the <hi>Scurvey, Dropſie, Jaundice,
+Hipocondriack Melancholly,</hi> &amp;c. <hi>Price 1</hi> 
+                  <abbr>s.</abbr> 
+                  <hi>a
+Bottle.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Magiſterium Anodinum.</head>
+               <p>SO called, from its great and admirable Faculty, in eaſing all
+manner of Pains in any part of the Body, which it does, not only by taking away
+that painful Senſation, but by correcting or removing the material cauſe
+that excites it: A Medicine ſo well corrected, and friendly to Nature, that
+it far exceeds both in eaſe and virtue the common Preparations of
+<hi>Mathew's</hi> Pill, or any of that Nature yet expoſed to the World.
+<hi>Price 1</hi> 
+                  <abbr>s.</abbr> 
+                  <hi>a Box.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Spiritus Catholicus.</head>
+               <p>THis <hi>Spirit</hi> is of moſt ſubtile and volatile Parts,
+and is a ſpecifick in moſt Di<g ref="char:EOLhyphen"/>ſeaſes of the Head, as <hi>Appoplexies,
+Lethargies,</hi> and all manner of <hi>ſleepy Diſeaſes, Falling
+Sickneſs, Convulſions, Megrim, Vertigo</hi> or Giddineſs of the Head,
+<hi>Cattarhs,</hi> &amp;c. The ſmell of it powerfully revives thoſe that
+are in Fits or Fainty, and for the moſt part gives eaſe in Pains of the
+Head, in a few Minutes time. It Cures the <hi>Pluriſie, Quinſie,</hi>
+without Blood-letting, and all manner of <hi>Inſtamations,</hi> either
+external or internal. It is a famous Medi<g ref="char:EOLhyphen"/>cine in all Obſtructions of the
+Liver, Spleen, meſſentery Womb, <hi>&amp;c.</hi> and the Di<g ref="char:EOLhyphen"/>ſeaſes of
+thoſe parts; The <hi>Cholick, Stone, Gout, Scurvey, Hypocondriack
+Melancholly, Kings-Evil, Rickets, Feavers</hi> &amp; <hi>Agues,</hi> &amp;c.
+<hi>Price 1</hi> 
+                  <abbr>s.</abbr> 
+                  <hi>a Bottle.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Pillulae Catharticae.</head>
+               <p>A <hi>Moſt excellent Purging Pill, in all Caſes where
+Purging is neceſſary, as in the</hi> Scurvey, Dropſie, Gout, Venerial
+Diſeaſe, Appoplexies, Epi<g ref="char:EOLhyphen"/>lepſies, <hi>old and invelerate</hi>
+Head-Aches, Cholick <hi>and</hi> Iliack Paſſion, Jaundice,
+Green-Sickneſs, <hi>&amp;c.</hi> Price 1 <abbr>
+                     <hi>s.</hi>
+                  </abbr> a Box.</p>
+               <p>Theſe Medicines are all Prepared and Sold (with Printed
+Directions, giving a more full Account of their Virtues, &amp;c.) by <hi>Henry
+Pitman,</hi> at the Sign of the <hi>Ship</hi> in St.
+<hi>Paul's-Church-Yard.</hi>
+               </p>
+            </div>
+         </div>
+      </back>
+   </text>
+</TEI>
